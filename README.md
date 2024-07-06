@@ -1,6 +1,7 @@
 # Kanso WordPress Block Theme
 
 <a href="https://rich.blog">As seen on rich.blog</a>
+
 <a href="">Try it for yourself with WordPress playground</a>
 
 <a href="https://rich.blog/kanso">Kanso</a> is a simple and intuitive blog block theme designed with a focus on writing. 
