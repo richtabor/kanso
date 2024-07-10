@@ -22,7 +22,7 @@
         "setup": "npm install && composer install"
     },
     "devDependencies": {
-    "wp-coding-standards/wpcs": "^2.3.0",
-    "squizlabs/php_codesniffer": "^3.6.0"
-  }
+        "wp-coding-standards/wpcs": "^2.3.0",
+        "squizlabs/php_codesniffer": "^3.6.0"
+    }
 }
