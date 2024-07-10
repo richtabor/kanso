@@ -13,6 +13,7 @@ zip -r $ZIP_FILE . -x \
     "*.DS_Store" \
     ".gitignore" \
     "package.json" \
+    "package-lock.json" \
     "README.md" \
     "theme-zip.sh" \
     "${THEME_NAME}*" \
