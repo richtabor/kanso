@@ -10,8 +10,14 @@ ZIP_FILE="${THEME_NAME}.zip"
 zip -r $ZIP_FILE . -x \
     "*.git*" \
     "*.github*" \
-    "*.DS_Store" \
+    "node_modules*" \
+    "vendor*" \
     ".gitignore" \
+    "*.lock" \
+    "*.dist" \
+    "*.DS_Store" \
+    "*.code-workspace" \
+    "composer.json" \
     "package.json" \
     "package-lock.json" \
     "README.md" \
