@@ -24,12 +24,8 @@ jobs:
     - name: Install dependencies
       run: npm install
 
-    - name: Make theme-zip.sh executable
-      run: chmod +x theme-zip.sh
-
     - name: Build theme zip
-      id: build_zip
-      run: ./theme-zip.sh
+      run: npm run theme-zip
 
     - name: Create Release
       id: create_release
@@ -48,6 +44,6 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: ${{ steps.build_zip.outputs.zip_file }}
-        asset_name: ${{ steps.build_zip.outputs.zip_file }}
+        asset_path: ./kanso.zip
+        asset_name: kanso.zip
         asset_content_type: application/zip
