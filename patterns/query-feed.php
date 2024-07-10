@@ -4,6 +4,7 @@
  * Slug: kanso/query-feed
  * Categories: query
  * Block Types: core/query
+ * Inserter: no
  */
 ?>
 
