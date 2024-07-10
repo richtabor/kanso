@@ -43,3 +43,9 @@ Inconsolata Font
 Copyright 2006 The Inconsolata Project Authors
 License: SIL Open Font License, 1.1, https://opensource.org/licenses/OFL-1.1
 Source: https://github.com/googlefonts/inconsolata
+
+=== Images ===
+
+License: CC0 https://creativecommons.org/publicdomain/zero/1.0/
+
+spring.webp - https://www.rawpixel.com/image/8689361/image-cloud-tree-public-domain
