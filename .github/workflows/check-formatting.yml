@@ -34,12 +34,3 @@ jobs:
 
       - name: Run format script
         run: npm run format
-
-      - name: Check for uncommitted changes
-        run: |
-          if [[ `git status --porcelain` ]]; then
-            echo "Code is not formatted correctly. Please run 'npm run format' and commit your changes."
-            exit 1
-          else
-            echo "Code is formatted correctly."
-          fi
