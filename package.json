@@ -18,7 +18,7 @@
 	},
 	"scripts": {
 		"format": "npm run format:json && npm run format:php",
-		"format:php": "./vendor/bin/phpcbf --standard=WordPress .",
+		 "format:php": "./vendor/bin/phpcbf --standard=phpcs.xml.dist .",
 		"format:json": "wp-scripts format",
 		"theme-zip": "./theme-zip.sh",
 		"setup": "npm install && composer install"

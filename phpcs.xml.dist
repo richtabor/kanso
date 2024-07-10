@@ -9,8 +9,11 @@
     <!-- Paths to exclude from the scan -->
     <exclude-pattern>vendor/*</exclude-pattern>
     <exclude-pattern>node_modules/*</exclude-pattern>
+    <exclude-pattern>assets/*</exclude-pattern>
+    <exclude-pattern>styles/*</exclude-pattern>
 
     <!-- Include your theme's PHP and HTML files -->
+    <file>functions.php</file>
     <file>**/*.php</file>
     <file>**/*.html</file>
 </ruleset>
