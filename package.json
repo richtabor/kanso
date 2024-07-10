@@ -1,0 +1,22 @@
+{
+	"name": "kanso",
+	"version": "0.0.1",
+	"description": "The WordPress theme for https://rich.blog",
+	"author": "Rich Tabor",
+	"license": "GPL-2.0-or-later",
+	"keywords": [
+		"WordPress",
+		"theme"
+	],
+	"homepage": "https://rich.blog/kanso",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/richtabor/kanso.git"
+	},
+	"bugs": {
+		"url": "https://github.com/richtabor/kanso/issues"
+	},
+    "scripts": {
+        "theme-zip": "./theme-zip.sh"
+    }
+}
