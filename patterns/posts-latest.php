@@ -7,14 +7,14 @@
  * Viewport width: 520
  */
 ?>
-<!-- wp:group {"metadata":{"name":"<?php echo esc_html__( 'Latest', 'kanso' )?>"},"layout":{"type":"constrained"}} -->
+<!-- wp:group {"metadata":{"name":"<?php echo esc_html__( 'Latest', 'kanso' ); ?>"},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group">
 <!-- wp:spacer {"height":"var:preset|spacing|10"} -->
 <div style="height:var(--wp--preset--spacing--10)" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 <!-- wp:group {"layout":{"type":"default"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"className":"is-style-text-subtitle"} -->
-<p class="is-style-text-subtitle"><?php echo esc_html__( 'Latest', 'kanso' )?></p>
+<p class="is-style-text-subtitle"><?php echo esc_html__( 'Latest', 'kanso' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"right":"var:preset|spacing|30","left":"var:preset|spacing|30","top":"20px","bottom":"20px"}}},"className":"is-style-section-3","layout":{"type":"default"}} -->

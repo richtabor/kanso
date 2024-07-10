@@ -1,130 +1,130 @@
 {
-    "version": 3,
-    "$schema": "https://schemas.wp.org/trunk/theme.json",
-    "title": "Green Acccent",
-    "settings": {
-        "color": {
-            "palette": [
-                {
-                    "color": "hsl(0 0% 100%)",
-                    "name": "Color 1",
-                    "slug": "theme-1"
-                },
-                {
-                    "color": "color-mix(in srgb, var(--wp--preset--color--theme-1) 96%, var(--wp--preset--color--theme-6) 4%)",
-                    "name": "Color 2",
-                    "slug": "theme-2"
-                },
-                {
-                    "color": "color-mix(in srgb, var(--wp--preset--color--theme-1) 93%, var(--wp--preset--color--theme-6) 7%)",
-                    "name": "Color 3",
-                    "slug": "theme-3"
-                },
-                {
-                    "color": "color-mix(in srgb, var(--wp--preset--color--theme-1) 80%, var(--wp--preset--color--theme-6) 20%)",
-                    "name": "Color 4",
-                    "slug": "theme-4"
-                },
-                {
-                    "color": "#1A8A0E",
-                    "name": "Accent Color",
-                    "slug": "theme-accent"
-                },
-                {
-                    "color": "color-mix(in srgb, var(--wp--preset--color--theme-1) 30%, var(--wp--preset--color--theme-6) 70%)",
-                    "name": "Color 5",
-                    "slug": "theme-5"
-                },
-                {
-                    "color": "hsl(0 0% 0%)",
-                    "name": "Color 6",
-                    "slug": "theme-6"
-                }
-            ]
-        },
-        "custom": {
-            "color": {
-                "theme-1-dark": "hsl(0 0% 10%)",
-                "theme-2-dark": "hsl(0 0% 100% / 3%)",
-                "theme-3-dark": "hsl(0 0% 100% / 8%)",
-                "theme-4-dark": "hsl(0 0% 100% / 12%)",
-                "theme-5-dark": "hsl(0 0% 55% / 100%)",
-                "theme-6-dark": "hsl(0 0% 100% / 80%)"
-            }
-        }
-    },
-    "styles": {
-        "elements": {
-            "button": {
-                ":hover": {
-                    "color": {
-                        "background": "color-mix(in srgb, var(--wp--preset--color--theme-accent) 90%, var(--wp--preset--color--theme-6) 10%)",
-                        "text": "hsl(0 0% 100%)"
-                    }
-                },
-                "color": {
-                    "background": "var(--wp--preset--color--theme-accent)",
-                    "text": "hsl(0 0% 100%)"
-                }
-            }
-        },
-        "variations": {
-            "section-1": {
-                "color": {
-                    "background": "var(--wp--preset--color--theme-accent)",
-                    "text": "hsl(0 0% 100%)"
-                },
-                "border": {
-                    "color": "var(--wp--preset--color--theme-accent)"
-                },
-                "blocks" : {
-                    "core/separator": {
-                        "color": {
-                            "text": "color-mix(in srgb, hsl(0 0% 100%) 20%, var(--wp--preset--color--theme-accent) 10%)"
-                        }
-                    }
-                },
-                "elements": {
-                   "button": {
-                        ":hover": {
-                            "color": {
-                                "background": "color-mix(in srgb, hsl(0 0% 0%) 70%, var(--wp--preset--color--theme-accent) 30%)",
-                                "text": "hsl(0 0% 100%)"
-                            }
-                        },
-                        "color": {
-                            "background": "hsl(0 0% 10%)",
-                            "text": "hsl(0 0% 100%)"
-                        }
-                    },
-                    "link": {
-                        "color": {
-                            "text": "hsl(0 0% 100%)"
-                        },
-                        ":hover": {
-                            "color": {
-                                "text": "hsl(0 0% 100%)"
-                            }
-                        }
-                    }
-                }
-            },
-            "section-2": {
-                "elements": {
-                    "button": {
-                        ":hover": {
-                            "color": {
-                                "background": "color-mix(in srgb, var(--wp--preset--color--theme-accent) 90%, var(--wp--preset--color--theme-6) 10%)",
-                                "text": "hsl(0 0% 100%)"
-                            }
-                        },
-                        "color": {
-                            "background": "var(--wp--preset--color--theme-accent)",
-                            "text": "hsl(0 0% 100%)"
-                        }
-                    }
-                }
-            }
-        }
-    }
+	"version": 3,
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"title": "Green Acccent",
+	"settings": {
+		"color": {
+			"palette": [
+				{
+					"color": "hsl(0 0% 100%)",
+					"name": "Color 1",
+					"slug": "theme-1"
+				},
+				{
+					"color": "color-mix(in srgb, var(--wp--preset--color--theme-1) 96%, var(--wp--preset--color--theme-6) 4%)",
+					"name": "Color 2",
+					"slug": "theme-2"
+				},
+				{
+					"color": "color-mix(in srgb, var(--wp--preset--color--theme-1) 93%, var(--wp--preset--color--theme-6) 7%)",
+					"name": "Color 3",
+					"slug": "theme-3"
+				},
+				{
+					"color": "color-mix(in srgb, var(--wp--preset--color--theme-1) 80%, var(--wp--preset--color--theme-6) 20%)",
+					"name": "Color 4",
+					"slug": "theme-4"
+				},
+				{
+					"color": "#1A8A0E",
+					"name": "Accent Color",
+					"slug": "theme-accent"
+				},
+				{
+					"color": "color-mix(in srgb, var(--wp--preset--color--theme-1) 30%, var(--wp--preset--color--theme-6) 70%)",
+					"name": "Color 5",
+					"slug": "theme-5"
+				},
+				{
+					"color": "hsl(0 0% 0%)",
+					"name": "Color 6",
+					"slug": "theme-6"
+				}
+			]
+		},
+		"custom": {
+			"color": {
+				"theme-1-dark": "hsl(0 0% 10%)",
+				"theme-2-dark": "hsl(0 0% 100% / 3%)",
+				"theme-3-dark": "hsl(0 0% 100% / 8%)",
+				"theme-4-dark": "hsl(0 0% 100% / 12%)",
+				"theme-5-dark": "hsl(0 0% 55% / 100%)",
+				"theme-6-dark": "hsl(0 0% 100% / 80%)"
+			}
+		}
+	},
+	"styles": {
+		"elements": {
+			"button": {
+				":hover": {
+					"color": {
+						"background": "color-mix(in srgb, var(--wp--preset--color--theme-accent) 90%, var(--wp--preset--color--theme-6) 10%)",
+						"text": "hsl(0 0% 100%)"
+					}
+				},
+				"color": {
+					"background": "var(--wp--preset--color--theme-accent)",
+					"text": "hsl(0 0% 100%)"
+				}
+			}
+		},
+		"variations": {
+			"section-1": {
+				"color": {
+					"background": "var(--wp--preset--color--theme-accent)",
+					"text": "hsl(0 0% 100%)"
+				},
+				"border": {
+					"color": "var(--wp--preset--color--theme-accent)"
+				},
+				"blocks": {
+					"core/separator": {
+						"color": {
+							"text": "color-mix(in srgb, hsl(0 0% 100%) 20%, var(--wp--preset--color--theme-accent) 10%)"
+						}
+					}
+				},
+				"elements": {
+					"button": {
+						":hover": {
+							"color": {
+								"background": "color-mix(in srgb, hsl(0 0% 0%) 70%, var(--wp--preset--color--theme-accent) 30%)",
+								"text": "hsl(0 0% 100%)"
+							}
+						},
+						"color": {
+							"background": "hsl(0 0% 10%)",
+							"text": "hsl(0 0% 100%)"
+						}
+					},
+					"link": {
+						"color": {
+							"text": "hsl(0 0% 100%)"
+						},
+						":hover": {
+							"color": {
+								"text": "hsl(0 0% 100%)"
+							}
+						}
+					}
+				}
+			},
+			"section-2": {
+				"elements": {
+					"button": {
+						":hover": {
+							"color": {
+								"background": "color-mix(in srgb, var(--wp--preset--color--theme-accent) 90%, var(--wp--preset--color--theme-6) 10%)",
+								"text": "hsl(0 0% 100%)"
+							}
+						},
+						"color": {
+							"background": "var(--wp--preset--color--theme-accent)",
+							"text": "hsl(0 0% 100%)"
+						}
+					}
+				}
+			}
+		}
+	}
 }
