@@ -20,7 +20,6 @@ if ( ! function_exists( 'kanso_setup' ) ) :
 
 		// Remove theme support for the core and featured patterns coming from the WordPress.org pattern directory (for now).
 		remove_theme_support( 'core-block-patterns' );
-
 	}
 
 endif;
@@ -36,8 +35,8 @@ if ( ! function_exists( 'kanso_styles' ) ) :
 	 * @return void
 	 */
 	function kanso_styles() {
-		
-		$theme_version = wp_get_theme()->get( 'Version' );
+
+		$theme_version  = wp_get_theme()->get( 'Version' );
 		$version_string = is_string( $theme_version ) ? $theme_version : false;
 
 		// Register theme stylesheet.
@@ -50,7 +49,6 @@ if ( ! function_exists( 'kanso_styles' ) ) :
 
 		// Enqueue theme stylesheet.
 		wp_enqueue_style( 'kanso-style' );
-
 	}
 
 endif;
@@ -69,7 +67,6 @@ if ( ! function_exists( 'kanso_editor_styles' ) ) :
 
 		// Enqueue theme stylesheet there are custom styles.
 		add_editor_style( 'style.css' );
-
 	}
 
 endif;
@@ -78,20 +75,19 @@ add_action( 'admin_init', 'kanso_editor_styles' );
 
 if ( ! function_exists( 'register_newsletter_pattern_category' ) ) :
 
-function kanso_register_pattern_categories() {
-    /**
-	 * Register pattern categories.
-	 *
-	 * @since Kanso 1.0
-	 *
-	 * @return void
-	 */
-    register_block_pattern_category(
-        'newsletter',
-        array( 'label' => __( 'Newsletter', 'kanso' ) )
-    );
-
-}
+	function kanso_register_pattern_categories() {
+		/**
+		 * Register pattern categories.
+		 *
+		 * @since Kanso 1.0
+		 *
+		 * @return void
+		 */
+		register_block_pattern_category(
+			'newsletter',
+			array( 'label' => __( 'Newsletter', 'kanso' ) )
+		);
+	}
 
 endif;
 
