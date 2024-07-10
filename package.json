@@ -17,8 +17,8 @@
 		"url": "https://github.com/richtabor/kanso/issues"
 	},
 	"scripts": {
-		"format": "npm run format:php && npm run format:json",
-		"format:php": "phpcbf --standard=WordPress .",
+		"format": "npm run format:json && npm run format:php",
+		"format:php": "./vendor/bin/phpcbf --standard=WordPress .",
 		"format:json": "wp-scripts format",
 		"theme-zip": "./theme-zip.sh",
 		"setup": "npm install && composer install"
