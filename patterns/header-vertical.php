@@ -5,7 +5,10 @@
  * Categories: header
  * Block Types: core/template-part/header
  * Viewport width: 1000
+ *
+ * @package Kanso
  */
+
 ?>
 
 <!-- wp:group {"metadata":{"name":"Header Content","categories":["header"],"patternName":"kanso/header-logo"},"align":"full","style":{"spacing":{"blockGap":"0","padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained"}} -->

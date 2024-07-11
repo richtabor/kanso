@@ -87,6 +87,10 @@ if ( ! function_exists( 'register_newsletter_pattern_category' ) ) :
 			'newsletter',
 			array( 'label' => __( 'Newsletter', 'kanso' ) )
 		);
+		register_block_pattern_category(
+			'blog',
+			array( 'label' => __( 'Blog', 'kanso' ) )
+		);
 	}
 
 endif;

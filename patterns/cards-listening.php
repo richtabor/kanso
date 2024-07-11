@@ -4,7 +4,10 @@
  * Slug: kanso/card-listening
  * Categories: featured
  * Viewport width: 520
+ *
+ * @package Kanso
  */
+
 ?>
 
 <!-- wp:group {"metadata":{"name":"<?php echo esc_html__( 'Listening', 'kanso' ); ?>"},"layout":{"type":"constrained"}} -->

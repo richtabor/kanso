@@ -1,21 +1,27 @@
-<!-- wp:template-part {"slug":"header"} /-->
+<?php
+/**
+ * Title: Cards, Listening
+ * Slug: kanso/page-home
+ * Categories: featured
+ * Viewport width: 520
+ *
+ * @package Kanso
+ */
 
-<!-- wp:group {"tagName":"main","metadata":{"name":"Main"},"style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20"}}},"layout":{"type":"constrained","justifyContent":"center"}} -->
-<main class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20)"><!-- wp:group {"metadata":{"name":"Intro"},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:heading {"level":1,"className":"wp-block-heading is-style-text-title"} -->
-<h1 class="wp-block-heading is-style-text-title">Hi, I'm Rich Tabor</h1>
-<!-- /wp:heading -->
+?>
 
-<!-- wp:site-tagline /--></div>
-<!-- /wp:group -->
+<!-- wp:group {"metadata":{"name":"<?php echo esc_html__( 'Home', 'kanso' ); ?>"},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group">
 
-<!-- wp:spacer {"height":"var:preset|spacing|20","style":{"layout":[]}} -->
-<div style="height:var(--wp--preset--spacing--20)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- wp:site-tagline /-->
+ 
+<!-- wp:spacer {"height":"var:preset|spacing|10"} -->
+	<div style="height:var(--wp--preset--spacing--10)" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:group {"metadata":{"name":"Latest"},"layout":{"type":"default"}} -->
+<!-- wp:group {"metadata":{"name":"<?php echo esc_html__( 'Latest', 'kanso' ); ?>"},"layout":{"type":"default"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"className":"is-style-text-subtitle"} -->
-<p class="is-style-text-subtitle">Latest</p>
+<p class="is-style-text-subtitle"><?php echo esc_html__( 'Latest', 'kanso' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"22px","bottom":"22px","left":"var:preset|spacing|30","right":"var:preset|spacing|30"}}},"className":"is-style-section-3","layout":{"type":"default"}} -->
@@ -44,7 +50,7 @@
 
 <!-- wp:group {"layout":{"type":"default"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"className":"is-style-text-subtitle"} -->
-<p class="is-style-text-subtitle">Posts</p>
+<p class="is-style-text-subtitle"><?php echo esc_html__( 'Posts', 'kanso' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:group {"metadata":{"name":"Posts"},"style":{"spacing":{"padding":{"top":"6px","right":"var:preset|spacing|30","bottom":"26px","left":"var:preset|spacing|30"}}},"className":"is-style-section-3","layout":{"type":"default"}} -->
@@ -64,7 +70,7 @@
 
 <!-- wp:buttons -->
 <div class="wp-block-buttons"><!-- wp:button {"width":100} -->
-<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link wp-element-button">View all posts <strong>→</strong></a></div>
+<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link wp-element-button"><?php echo esc_html__( 'View all posts', 'kanso' ); ?> <strong>→</strong></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:group --></div>
@@ -79,9 +85,9 @@
 <div style="height:var(--wp--preset--spacing--30)" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:group {"metadata":{"name":"Topics"},"layout":{"type":"default"}} -->
+<!-- wp:group {"metadata":{"name":"<?php echo esc_html__( 'Topics', 'kanso' ); ?>"},"layout":{"type":"default"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"className":"is-style-text-subtitle"} -->
-<p class="is-style-text-subtitle">Topics</p>
+<p class="is-style-text-subtitle"><?php echo esc_html__( 'Topics', 'kanso' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:tag-cloud {"smallestFontSize":"12px","largestFontSize":"12px"} /--></div>
@@ -91,53 +97,57 @@
 <div style="height:var(--wp--preset--spacing--30)" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:group {"metadata":{"name":"Tools"},"layout":{"type":"default"}} -->
+<!-- wp:group {"metadata":{"name":"<?php echo esc_html__( 'Tools', 'kanso' ); ?>"},"layout":{"type":"default"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"className":"is-style-text-subtitle"} -->
-<p class="is-style-text-subtitle">Tools</p>
+<p class="is-style-text-subtitle"><?php echo esc_html__( 'Tools', 'kanso' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:group {"metadata":{"name":"Cards"},"style":{"spacing":{"blockGap":"var:preset|spacing|10"}},"layout":{"type":"grid","columnCount":null,"minimumColumnWidth":"12rem"}} -->
 <div class="wp-block-group"><!-- wp:group {"metadata":{"name":"Card"},"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20","right":"var:preset|spacing|20"},"blockGap":"0"},"layout":{"selfStretch":"fill","flexSize":null}},"className":"is-style-section-3","layout":{"type":"flex","orientation":"vertical","flexWrap":"nowrap"}} -->
 <div class="wp-block-group is-style-section-3" style="padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)"><!-- wp:paragraph {"className":"no-underline","fontSize":"small"} -->
-<p class="no-underline has-small-font-size"><a href="https://rich.blog/shaping-wordpress">Shaping WordPress</a></p>
+<p class="no-underline has-small-font-size"><a href="https://rich.blog/shaping-wordpress"><?php echo esc_html__( 'Shaping WordPress', 'kanso' ); ?></a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"13px"}},"className":"is-style-text-subtitle"} -->
-<p class="is-style-text-subtitle" style="font-size:13px">The best newsletter.</p>
+<p class="is-style-text-subtitle" style="font-size:13px"><?php echo esc_html__( 'The best newsletter.', 'kanso' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
 <!-- wp:group {"metadata":{"name":"Card"},"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20","right":"var:preset|spacing|20"},"blockGap":"0"},"layout":{"selfStretch":"fill","flexSize":null}},"className":"is-style-section-3","layout":{"type":"flex","orientation":"vertical","flexWrap":"nowrap"}} -->
 <div class="wp-block-group is-style-section-3" style="padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)"><!-- wp:paragraph {"className":"no-underline","fontSize":"small"} -->
-<p class="no-underline has-small-font-size"><a href="https://rich.blog">Rich's Blog</a></p>
+<p class="no-underline has-small-font-size"><a href="https://rich.blog"><?php echo esc_html__( 'Rich\'s Blog', 'kanso' ); ?></a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"13px"}},"className":"is-style-text-subtitle"} -->
-<p class="is-style-text-subtitle" style="font-size:13px">The best WordPress blog.</p>
+<p class="is-style-text-subtitle" style="font-size:13px"><?php echo esc_html__( 'The best WordPress blog.', 'kanso' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
 <!-- wp:group {"metadata":{"name":"Card"},"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20","right":"var:preset|spacing|20"},"blockGap":"0"},"layout":{"selfStretch":"fill","flexSize":null}},"className":"is-style-section-3","layout":{"type":"flex","orientation":"vertical","flexWrap":"nowrap"}} -->
 <div class="wp-block-group is-style-section-3" style="padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)"><!-- wp:paragraph {"className":"no-underline","fontSize":"small"} -->
-<p class="no-underline has-small-font-size"><a href="#">Using WordPress</a></p>
+<p class="no-underline has-small-font-size"><a href="#"><?php echo esc_html__( 'Using WordPress', 'kanso' ); ?></a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"13px"}},"className":"is-style-text-subtitle"} -->
-<p class="is-style-text-subtitle" style="font-size:13px">The best WordPress tips.</p>
+<p class="is-style-text-subtitle" style="font-size:13px"><?php echo esc_html__( 'The best WordPress tips.', 'kanso' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
 <!-- wp:group {"metadata":{"name":"Card"},"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20","right":"var:preset|spacing|20"},"blockGap":"0"},"layout":{"selfStretch":"fill","flexSize":null}},"className":"is-style-section-3","layout":{"type":"flex","orientation":"vertical","flexWrap":"nowrap"}} -->
 <div class="wp-block-group is-style-section-3" style="padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)"><!-- wp:paragraph {"className":"no-underline","fontSize":"small"} -->
-<p class="no-underline has-small-font-size"><a href="https://rich.blog/shaping-wordpress">Shaping WordPress</a></p>
+<p class="no-underline has-small-font-size"><a href="https://rich.blog/shaping-wordpress"><?php echo esc_html__( 'Shaping WordPress', 'kanso' ); ?></a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"13px"}},"className":"is-style-text-subtitle"} -->
-<p class="is-style-text-subtitle" style="font-size:13px">The best newsletter.</p>
+<p class="is-style-text-subtitle" style="font-size:13px"><?php echo esc_html__( 'The best newsletter.', 'kanso' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>
-<!-- /wp:group --></main>
 <!-- /wp:group -->
 
-<!-- wp:template-part {"slug":"footer","area":"footer"} /-->
+<!-- wp:spacer {"height":"var:preset|spacing|10"} -->
+<div style="height:var(--wp--preset--spacing--10)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+</div>
+<!-- /wp:group -->

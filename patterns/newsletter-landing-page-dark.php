@@ -4,7 +4,10 @@
  * Slug: kanso/newsletter-landing-page-dark
  * Categories: newsletter
  * Viewport width: 1000
+ *
+ * @package Kanso
  */
+
 ?>
 
 <!-- wp:group {"metadata":{"name":"Newsletter"},"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40","left":"var:preset|spacing|30","right":"var:preset|spacing|30"},"blockGap":"var:preset|spacing|30"},"dimensions":{"minHeight":"100vh"},"border":{"radius":"0px"}},"className":"is-style-section-1","layout":{"type":"flex","orientation":"vertical","justifyContent":"center","verticalAlignment":"center"}} -->

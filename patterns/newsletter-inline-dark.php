@@ -4,7 +4,10 @@
  * Slug: kanso/newsletter-inline-dark
  * Categories: newsletter
  * Viewport width: 600
+ *
+ * @package Kanso
  */
+
 ?>
 
 <!-- wp:group {"metadata":{"name":"Newsletter","categories":["newsletter"]},"align":"full","layout":{"type":"constrained"}} -->

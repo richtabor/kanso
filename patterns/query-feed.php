@@ -1,18 +1,21 @@
 <?php
 /**
- * Title: Query, Feed
+ * Title: Social Feed Blog
  * Slug: kanso/query-feed
- * Categories: query
+ * Categories: blog
  * Block Types: core/query
- * Inserter: no
+ * Viewport width: 720
+ *
+ * @package Kanso
  */
+
 ?>
 
-<!-- wp:query {"query":{"perPage":3,"pages":0,"offset":"0","postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":true},"layout":{"type":"constrained"}} -->
+<!-- wp:query {"metadata":{"categories":["blog"]}, "query":{"perPage":3,"pages":0,"offset":"0","postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":true}} -->
 <div class="wp-block-query">
 	<!-- wp:post-template {"layout":{"type":"default","columnCount":1}} -->
-		<!-- wp:group {"metadata":{"name":"Post Wrapper"},"layout":{"type":"constrained"}} -->
-		<div class="wp-block-group"><!-- wp:group {"metadata":{"name":"Post Header"},"style":{"spacing":{"blockGap":"12px","margin":{"bottom":"var:preset|spacing|30"}},"typography":{"lineHeight":"1"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+		<!-- wp:group {"metadata":{"name":"<?php echo esc_html__( 'Post Wrapper', 'kanso' ); ?>"},"layout":{"type":"constrained"}} -->
+		<div class="wp-block-group"><!-- wp:group {"metadata":{"name":"<?php echo esc_html__( 'Post Header', 'kanso' ); ?>"},"style":{"spacing":{"blockGap":"12px","margin":{"bottom":"var:preset|spacing|30"}},"typography":{"lineHeight":"1"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 			<div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--30);line-height:1"><!-- wp:avatar {"size":40,"style":{"border":{"radius":"1000px"}}} /-->
 			
 			<!-- wp:group {"style":{"spacing":{"blockGap":"8px"}},"layout":{"type":"flex","orientation":"vertical","flexWrap":"nowrap"}} -->

@@ -4,7 +4,10 @@
  * Slug: kanso/text-work-experience
  * Categories: featured
  * Viewport width: 800
+ *
+ * @package Kanso
  */
+
 ?>
 
 <!-- wp:group {"metadata":{"name":"<?php echo esc_html__( 'Work Experience', 'kanso' ); ?>"},"layout":{"type":"constrained"}} -->
