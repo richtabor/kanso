@@ -5,7 +5,6 @@
 	"title": "Framed",
 	"blockTypes": [ "core/gallery", "core/image" ],
 	"styles": {
-		"css": "& { box-sizing: border-box; border-radius: var(--wp--preset--spacing--20); } &::before { box-sizing: display: none !important; } & img { border-radius: calc( var(--wp--preset--spacing--10) * 0.5) !important; } ",
 		"color": {
 			"background": "var(--wp--preset--color--theme-3)"
 		},

@@ -5,7 +5,10 @@
  * Categories: posts, featured
  * Block Types: core/query-loop
  * Viewport width: 520
+ *
+ * @package Kanso
  */
+
 ?>
 
 <!-- wp:group {"metadata":{"name":"<?php echo esc_html__( 'Recent', 'kanso' ); ?>"},"layout":{"type":"constrained"}} -->

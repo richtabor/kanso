@@ -177,6 +177,25 @@ input:not([type=submit]):focus,
 	outline: 1px solid var(--wp--preset--color--theme-6);
 }
 
+/* Image */
+.is-style-framed {
+	box-sizing: border-box;
+	border-radius: var(--wp--preset--spacing--20);
+}
+
+.is-style-framed::before {
+	box-sizing: border-box;
+	display: none !important;
+}
+
+.is-style-framed img {
+	border-radius: calc( var(--wp--preset--spacing--10) * 0.5) !important;
+}
+
+.is-style-rounded img {
+	border-radius: 100%;
+}
+
 /* Gallery block */
 @media (max-width: 599px) {
 	.wp-block-gallery img,
