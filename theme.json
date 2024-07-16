@@ -26,32 +26,32 @@
 			"palette": [
 				{
 					"color": "hsl(0 0% 100%)",
-					"name": "Color 1",
+					"name": "Theme 1",
 					"slug": "theme-1"
 				},
 				{
 					"color": "color-mix(in srgb, var(--wp--preset--color--theme-1) 96%, var(--wp--preset--color--theme-6) 4%)",
-					"name": "Color 2",
+					"name": "Theme 2",
 					"slug": "theme-2"
 				},
 				{
 					"color": "color-mix(in srgb, var(--wp--preset--color--theme-1) 90%, var(--wp--preset--color--theme-6) 10%)",
-					"name": "Color 3",
+					"name": "Theme 3",
 					"slug": "theme-3"
 				},
 				{
 					"color": "color-mix(in srgb, var(--wp--preset--color--theme-1) 80%, var(--wp--preset--color--theme-6) 20%)",
-					"name": "Color 4",
+					"name": "Theme 4",
 					"slug": "theme-4"
 				},
 				{
 					"color": "color-mix(in srgb, var(--wp--preset--color--theme-1) 40%, var(--wp--preset--color--theme-6) 60%)",
-					"name": "Color 5",
+					"name": "Theme 5",
 					"slug": "theme-5"
 				},
 				{
 					"color": "hsl(0 0% 5%)",
-					"name": "Color 6",
+					"name": "Theme 6",
 					"slug": "theme-6"
 				}
 			]
@@ -416,6 +416,26 @@
 						}
 					}
 				}
+			},
+            "core/query-pagination": {
+				"elements": {
+					"link": {
+						":hover": {
+							"color": {
+								"text": "var(--wp--preset--color--theme-6)"
+							}
+						},
+						"color": {
+							"text": "var(--wp--preset--color--theme-5)"
+						},
+						"typography": {
+							"textDecoration": "none"
+						}
+					}
+				}
+			},
+            "core/query-pagination-numbers": {
+				"css": "& { display: flex; gap: 2px; } & .page-numbers { padding: 8px; }"
 			},
 			"core/comment-date": {
 				"color": {
