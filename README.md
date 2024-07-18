@@ -1,6 +1,6 @@
 # Kanso WordPress Block Theme
 
-[![Code Quality](https://github.com/richtabor/kanso/actions/workflows/check-formatting.yml/badge.svg)](https://github.com/richtabor/kanso/actions/workflows/check-formatting.yml)
+[![Code Quality](https://github.com/richtabor/kanso/actions/workflows/check-formatting.yml/badge.svg)](https://github.com/richtabor/kanso/actions/workflows/check-formatting.yml) [![Deploy to https://rich.blog](https://github.com/richtabor/kanso/actions/workflows/deploy.yml/badge.svg)](https://github.com/richtabor/kanso/actions/workflows/deploy.yml)
 
 <a href="https://rich.blog/kanso">Kanso</a> is a simple and intuitive blog block theme designed with a focus on writing. 
 
