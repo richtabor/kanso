@@ -26,8 +26,8 @@
 			<!-- wp:query {"queryId":9,"query":{"perPage":"5","pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false}} -->
 			<div class="wp-block-query">
 				<!-- wp:post-template {"style":{"spacing":{"blockGap":"0"}}} -->
-					<!-- wp:group {"style":{"spacing":{"padding":{"top":"16px","bottom":"13px"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
-					<div class="wp-block-group" style="padding-top:16px;padding-bottom:13px">
+					<!-- wp:group {"style":{"spacing":{"padding":{"top":"16px","bottom":"12px"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
+					<div class="wp-block-group" style="padding-top:16px;padding-bottom:12px">
 						<!-- wp:post-title {"isLink":true,"style":{"typography":{"lineHeight":"1.2"},"spacing":{"padding":{"top":"0px","bottom":"0px"}}},"className":"truncate","fontSize":"medium"} /-->
 						<!-- wp:post-date {"format":"M Y","isLink":true,"style":{"typography":{"lineHeight":"1.2"}},"className":"is-style-text-subtitle"} /-->
 					</div>
