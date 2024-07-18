@@ -385,6 +385,7 @@ input:not([type=submit]):focus,
 	display: inline-flex;
 	justify-content: center;
 	min-height: 38px;
+	margin-right: 0;
 	transition: background-color var(--wp--custom--transition--duration, 200ms) ease-out, color var(--wp--custom--transition--duration, 200ms) ease-out, transform var(--wp--custom--transition--duration, 200ms) cubic-bezier(.4,0,.2,1);
 }
 
