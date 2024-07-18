@@ -417,7 +417,7 @@
 					}
 				}
 			},
-            "core/query-pagination": {
+			"core/query-pagination": {
 				"elements": {
 					"link": {
 						":hover": {
@@ -434,7 +434,7 @@
 					}
 				}
 			},
-            "core/query-pagination-numbers": {
+			"core/query-pagination-numbers": {
 				"css": "& { display: flex; gap: 2px; } & .page-numbers { padding: 8px; }"
 			},
 			"core/comment-date": {
