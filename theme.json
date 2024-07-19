@@ -682,7 +682,7 @@
 				}
 			},
 			"core/tag-cloud": {
-				"css": "& { display: flex; gap: 6px; flex-wrap: wrap; } & p { margin-top: 0; } & a { border-radius: var(--wp--preset--spacing--10); font-size: var(--wp--preset--font-size--small) !important; }",
+				"css": "& { display: flex; gap: 6px; flex-wrap: wrap; } & p { margin-top: 0; } }",
 				"elements": {
 					"link": {
 						":hover": {
