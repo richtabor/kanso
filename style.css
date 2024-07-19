@@ -303,6 +303,11 @@ input:not([type=submit]):focus-visible {
 
 /* VideoPress */
 
+.wp-block-jetpack-videopress iframe {
+	display: block;
+	border-radius: var(--wp--preset--spacing--20);
+}
+
 .wp-block-jetpack-videopress {
 	/* CSS in third party blocks is not supported yet — https://github.com/WordPress/gutenberg/issues/48439 */
 	margin-top: var(--wp--preset--spacing--30);
