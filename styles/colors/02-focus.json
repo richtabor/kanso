@@ -40,10 +40,10 @@
 		"custom": {
 			"color": {
 				"theme-1-dark": "var(--wp--preset--color--theme-6)",
-				"theme-2-dark": "hsl(0 0% 100% / 3%)",
-				"theme-3-dark": "hsl(0 0% 100% / 8%)",
-				"theme-4-dark": "hsl(0 0% 100% / 12%)",
-				"theme-5-dark": "hsl(0 0% 55% / 100%)",
+				"theme-2-dark": "color-mix(in srgb, var(--wp--preset--color--theme-1) 4%, var(--wp--preset--color--theme-6) 96%)",
+				"theme-3-dark": "color-mix(in srgb, var(--wp--preset--color--theme-1) 12%, var(--wp--preset--color--theme-6) 88%)",
+				"theme-4-dark": "color-mix(in srgb, var(--wp--preset--color--theme-1) 25%, var(--wp--preset--color--theme-6) 75%)",
+				"theme-5-dark": "color-mix(in srgb, var(--wp--preset--color--theme-1) 45%, var(--wp--preset--color--theme-6) 55%)",
 				"theme-6-dark": "var(--wp--preset--color--theme-1)"
 			}
 		}
