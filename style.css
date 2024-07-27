@@ -330,8 +330,8 @@ input:not([type=submit]):focus-visible {
 /* Quote block */
 
 .wp-block-quote cite {
-	font-size: var(--wp--preset--font-size--small);
 	color: var(--wp--preset--color--theme-6);
+	font-size: var(--wp--preset--font-size--small);
 	margin-top: var(--wp--preset--font-size--small) !important;
 }
 
@@ -361,14 +361,14 @@ input:not([type=submit]):focus-visible {
 
 .wp-block-tag-cloud a {
 	align-items: center;
+	border-radius: var(--wp--preset--spacing--10);
 	border: 1px solid var(--wp--preset--color--theme-3);
 	display: inline-flex;
+	font-size: var(--wp--preset--font-size--small) !important;
 	justify-content: center;
 	margin-right: 0;
 	min-height: 36px;
 	transition: background-color var(--wp--custom--transition--duration, 200ms) ease-out, color var(--wp--custom--transition--duration, 200ms) ease-out, transform var(--wp--custom--transition--duration, 200ms) cubic-bezier(.4,0,.2,1);
-	border-radius: var(--wp--preset--spacing--10);
-	font-size: var(--wp--preset--font-size--small) !important;
 
 	@media (prefers-reduced-motion: reduce) {
 		/* Reduce motion per user preference. */
