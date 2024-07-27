@@ -135,6 +135,7 @@ input:not([type=submit]):not([type=checkbox]) {
 	border-width: 1px;
 	box-shadow: none;
 	box-sizing: border-box;
+	color: var(--wp--preset--color--theme-6);
 	font-size: var(--wp--preset--font-size--small);
 	line-height: 1.5;
 	min-height: 40px;
