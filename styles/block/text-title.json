@@ -11,9 +11,6 @@
 		"core/site-title"
 	],
 	"styles": {
-		"color": {
-			"text": "var(--wp--preset--color--theme-6)"
-		},
 		"elements": {
 			"link": {
 				":hover": {
