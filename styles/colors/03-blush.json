@@ -35,6 +35,18 @@
 					"name": "Color 6",
 					"slug": "theme-6"
 				}
+			],
+			"duotone": [
+				{
+					"colors": [ "hsl(12 85% 6%)", "hsl(12 100% 98%)" ],
+					"slug": "duotone-1",
+					"name": "Duotone 1"
+				},
+				{
+					"colors": [ "hsl(12 100% 98%)", "hsl(12 85% 6%)" ],
+					"slug": "duotone-2",
+					"name": "Duotone 2"
+				}
 			]
 		},
 		"custom": {

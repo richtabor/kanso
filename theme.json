@@ -21,8 +21,40 @@
 			"defaultDuotone": false,
 			"defaultGradients": false,
 			"defaultPalette": false,
-			"duotone": [],
-			"gradients": [],
+			"duotone": [
+				{
+					"colors": [ "#000000", "#FFFFFF" ],
+					"slug": "duotone-1",
+					"name": "Duotone 1"
+				},
+				{
+					"colors": [ "#FFFFFF", "#000000" ],
+					"slug": "duotone-2",
+					"name": "Duotone 2"
+				}
+			],
+			"gradients": [
+				{
+					"slug": "gradient-1",
+					"gradient": "linear-gradient(to bottom, var(--wp--preset--color--theme-5) -100%, transparent 100%)",
+					"name": "Gradient 1"
+				},
+				{
+					"slug": "gradient-2",
+					"gradient": "linear-gradient(to bottom, var(--wp--preset--color--theme-5) -75%, transparent 75%)",
+					"name": "Gradient 2"
+				},
+				{
+					"slug": "gradient-3",
+					"gradient": "linear-gradient(to bottom, var(--wp--preset--color--theme-5) -50%, transparent 50%)",
+					"name": "Gradient 3"
+				},
+				{
+					"slug": "gradient-4",
+					"gradient": "linear-gradient(to bottom, var(--wp--preset--color--theme-5) -33%, transparent 33%)",
+					"name": "Gradient 4"
+				}
+			],
 			"palette": [
 				{
 					"color": "hsl(0 0% 100%)",
