@@ -231,16 +231,6 @@ input:not([type=submit]):focus-visible {
 	margin-bottom: 0;
 }
 
-/* Table of contents block */
-
-.wp-block-table-of-contents::before {
-	color: var(--wp--preset--color--theme-5);
-	content: "Table of contents";
-	display: block;
-	font-size: var(--wp--preset--font-size--small);
-	margin-bottom: var(--wp--preset--spacing--10);
-}
-
 /* Tag cloud block */
 
 .wp-block-tag-cloud a {
