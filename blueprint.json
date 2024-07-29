@@ -1,13 +1,21 @@
 {
 	"$schema": "https://playground.wordpress.net/blueprint-schema.json",
 	"meta": {
-		"title": "Kanso",
+		"title": "Live demo the Kanso WordPress theme for bloggers.",
 		"description": "",
 		"author": "richtabor",
-		"categories": [ "Woocommerce", "Site" ]
+		"categories": [ "theme" ]
 	},
 	"landingPage": "/wp-admin/site-editor.php",
+    "login": true,
 	"steps": [
+        {
+			"step": "updateUserMeta",
+			"meta": {
+				"admin_color": "modern"
+			},
+			"userId": 1
+		},
         {
 			"step": "resetData"
 		},
@@ -32,11 +40,6 @@
 				"blogname": "Rich Tabor",
 				"blogdescription": "Multidisciplinary maker specializing in the intersection of product, design and engineering. Making WordPress."
 			}
-		},
-        {
-			"step": "login",
-			"username": "admin",
-			"password": "password"
 		}
 	]
 }
