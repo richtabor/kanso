@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.6.1" created="2024-07-29 17:31" -->
+	<!-- generator="WordPress/6.6.1" created="2024-07-29 17:38" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Rich Tabor</title>
 	<link>https://rich.test</link>
 	<description>Multidisciplinary maker specializing in the intersection of product, design and engineering. Making WordPress.</description>
-	<pubDate>Mon, 29 Jul 2024 17:31:59 +0000</pubDate>
+	<pubDate>Mon, 29 Jul 2024 17:38:35 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://rich.test</wp:base_site_url>
@@ -1281,30 +1281,6 @@ Nostrud qui quis reprehenderit commodo proident elit. Consectetur veniam incidid
 <p>A multidisciplinary maker specializing in the intersection of product, design and engineering. Making WordPress.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:group {"className":"is-style-default","backgroundColor":"theme-2","layout":{"type":"constrained"}} -->
-<div class="wp-block-group is-style-default has-theme-2-background-color has-background"><!-- wp:spacer -->
-<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"className":"is-style-default","backgroundColor":"theme-3","layout":{"type":"constrained"}} -->
-<div class="wp-block-group is-style-default has-theme-3-background-color has-background"><!-- wp:spacer -->
-<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"className":"is-style-default","backgroundColor":"theme-4","layout":{"type":"constrained"}} -->
-<div class="wp-block-group is-style-default has-theme-4-background-color has-background"><!-- wp:spacer -->
-<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"className":"is-style-default","backgroundColor":"theme-5","layout":{"type":"constrained"}} -->
-<div class="wp-block-group is-style-default has-theme-5-background-color has-background"><!-- wp:spacer -->
-<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer --></div>
-<!-- /wp:group -->
-
 <!-- wp:paragraph -->
 <p>I had my start designing websites and running a WordPress theme shop. When the WordPress block editor was coming to fruition, I began leaning into React and building CoBlocks.</p>
 <!-- /wp:paragraph -->
@@ -1332,8 +1308,8 @@ Nostrud qui quis reprehenderit commodo proident elit. Consectetur veniam incidid
 		<wp:post_id>264</wp:post_id>
 		<wp:post_date><![CDATA[2024-02-16 13:57:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-02-16 13:57:28]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-18 18:57:54]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-18 18:57:54]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-07-29 17:36:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-29 17:36:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about]]></wp:post_name>
@@ -2095,17 +2071,19 @@ Nostrud qui quis reprehenderit commodo proident elit. Consectetur veniam incidid
 		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://rich.test/?p=4</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"About","type":"page","id":264,"url":"https://rich.test/?page_id=264","kind":"post-type"} /-->
+		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"About","type":"page","id":264,"url":"https://rich.test/about/","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"Archive","type":"page","id":258,"url":"https://rich.test/?page_id=258","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Posts","type":"page","id":2,"url":"https://rich.test/posts/","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"Posts","type":"page","id":2,"url":"https://rich.test/?page_id=2","kind":"post-type"} /-->]]></content:encoded>
+<!-- wp:navigation-link {"label":"Archive","type":"page","id":1764,"url":"https://rich.test/archive/","kind":"post-type"} /-->
+
+<!-- wp:navigation-link {"label":"Search","url":"/?s=","kind":"custom"} /-->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>4</wp:post_id>
 		<wp:post_date><![CDATA[2024-02-12 18:15:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-02-12 18:15:22]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-19 14:06:18]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-19 14:06:18]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-07-29 17:38:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-29 17:38:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[navigation]]></wp:post_name>
@@ -2541,6 +2519,10 @@ Nostrud qui quis reprehenderit commodo proident elit. Consectetur veniam incidid
 <!-- wp:group {"metadata":{"name":"Right"},"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group"><!-- wp:navigation {"ref":4,"overlayMenu":"never","layout":{"type":"flex","flexWrap":"nowrap"}} /-->
 
+<!-- wp:paragraph -->
+<p>p</p>
+<!-- /wp:paragraph -->
+
 <!-- wp:tabor/dark-mode-toggle -->
 <div class="wp-block-tabor-dark-mode-toggle is-small"><label class="wp-block-tabor-dark-mode-toggle__label" for="theme-toggle"><input type="checkbox" class="wp-block-tabor-dark-mode-toggle__input" id="theme-toggle" aria-label="Toggle dark mode"/><span class="wp-block-tabor-dark-mode-toggle__track"><span class="wp-block-tabor-dark-mode-toggle__selector"><span class="wp-block-tabor-dark-mode-toggle__icon wp-block-tabor-dark-mode-toggle__icon--light" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M13 2a1 1 0 1 0-2 0v1a1 1 0 1 0 2 0V2Zm0 19a1 1 0 1 0-2 0v1a1 1 0 1 0 2 0v-1Zm6.777-16.777a1 1 0 0 1 0 1.414l-.71.71a1 1 0 1 1-1.414-1.414l.71-.71a1 1 0 0 1 1.414 0ZM6.347 19.067a1 1 0 1 0-1.414-1.414l-.71.71a1 1 0 1 0 1.414 1.414l.71-.71ZM20 12a1 1 0 0 1 1-1h1a1 1 0 1 1 0 2h-1a1 1 0 0 1-1-1ZM2 11a1 1 0 1 0 0 2h1a1 1 0 1 0 0-2H2Zm15.653 6.653a1 1 0 0 1 1.414 0l.71.71a1 1 0 0 1-1.414 1.414l-.71-.71a1 1 0 0 1 0-1.414ZM5.637 4.223a1 1 0 1 0-1.414 1.414l.71.71a1 1 0 0 0 1.414-1.414l-.71-.71Zm2.12 3.534a6 6 0 1 1 8.486 8.486 6 6 0 0 1-8.486-8.486Z"></path></svg></span><span class="wp-block-tabor-dark-mode-toggle__icon wp-block-tabor-dark-mode-toggle__icon--dark" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12.056 3.6a1 1 0 0 0-.908-1.564c-5.123.434-9.144 4.728-9.144 9.962 0 5.522 4.476 9.998 9.998 9.998 5.234 0 9.528-4.021 9.962-9.144a1 1 0 0 0-1.564-.908A6 6 0 0 1 12.055 3.6Z"></path></svg></span></span></span></label></div>
 <!-- /wp:tabor/dark-mode-toggle --></div>
@@ -2551,8 +2533,8 @@ Nostrud qui quis reprehenderit commodo proident elit. Consectetur veniam incidid
 		<wp:post_id>1705</wp:post_id>
 		<wp:post_date><![CDATA[2024-07-06 17:58:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-07-06 17:58:57]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-19 14:06:18]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-19 14:06:18]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-07-29 17:38:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-29 17:38:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[header]]></wp:post_name>
