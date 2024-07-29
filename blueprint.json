@@ -54,6 +54,7 @@
 			"options": {
 				"blogname": "Rich Tabor",
 				"blogdescription": "Multidisciplinary maker specializing in the intersection of product, design and engineering. Making WordPress.",
+				"show_on_front": "page",
 				"page_on_front": 6,
 				"page_for_posts": 2
 			}
