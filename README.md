@@ -4,6 +4,10 @@
 
 <a href="https://rich.blog/kanso">Kanso</a> is a simple and intuitive block theme designed with a focus on blogging. 
 
+https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wordpress/blueprints/trunk/blueprints/stylish-press/blueprint.json
+
+[Try Kanso on WordPress Playground](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/richtabor/kanso/main/blueprint.json)
+
 It offers a clean and distraction-free reading experience, perfect for bloggers who want their content to take center stage. Kanso also includes several patterns for newsletters, providing an easy way to engage with your audience. The theme features 20 color variations and three font variations (sans serif, monospace, and serif), offering a variety of customization options. Additionally, Kanso supports section styles and text styles across all elements, ensuring a cohesive and visually appealing design that you can flex however you'd like.
 
 Want cool blocks? [I have a few here.](https://github.com/richtabor/blocks) 
