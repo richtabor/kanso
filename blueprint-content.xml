@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.6.1" created="2024-07-29 17:38" -->
+	<!-- generator="WordPress/6.6.1" created="2024-07-29 17:56" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Rich Tabor</title>
 	<link>https://rich.test</link>
 	<description>Multidisciplinary maker specializing in the intersection of product, design and engineering. Making WordPress.</description>
-	<pubDate>Mon, 29 Jul 2024 17:38:35 +0000</pubDate>
+	<pubDate>Mon, 29 Jul 2024 17:56:12 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://rich.test</wp:base_site_url>
@@ -87,9 +87,34 @@
 		<wp:tag_name><![CDATA[favorites]]></wp:tag_name>
 	</wp:tag>
 		<wp:tag>
+		<wp:term_id>23</wp:term_id>
+		<wp:tag_slug><![CDATA[gutenberg]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[Gutenberg]]></wp:tag_name>
+	</wp:tag>
+		<wp:tag>
 		<wp:term_id>7</wp:term_id>
 		<wp:tag_slug><![CDATA[produce]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[produce]]></wp:tag_name>
+	</wp:tag>
+		<wp:tag>
+		<wp:term_id>21</wp:term_id>
+		<wp:tag_slug><![CDATA[product]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[product]]></wp:tag_name>
+	</wp:tag>
+		<wp:tag>
+		<wp:term_id>24</wp:term_id>
+		<wp:tag_slug><![CDATA[themes]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[Themes]]></wp:tag_name>
+	</wp:tag>
+		<wp:tag>
+		<wp:term_id>22</wp:term_id>
+		<wp:tag_slug><![CDATA[travel]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[travel]]></wp:tag_name>
+	</wp:tag>
+		<wp:tag>
+		<wp:term_id>20</wp:term_id>
+		<wp:tag_slug><![CDATA[wordpress]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[wordpress]]></wp:tag_name>
 	</wp:tag>
 			<wp:term>
 		<wp:term_id>8</wp:term_id>
@@ -155,6 +180,13 @@
 		<wp:term_name><![CDATA[greyd-wp]]></wp:term_name>
 	</wp:term>
 		<wp:term>
+		<wp:term_id>23</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[gutenberg]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Gutenberg]]></wp:term_name>
+	</wp:term>
+		<wp:term>
 		<wp:term_id>3</wp:term_id>
 		<wp:term_taxonomy><![CDATA[wp_template_part_area]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[header]]></wp:term_slug>
@@ -211,6 +243,27 @@
 		<wp:term_name><![CDATA[produce]]></wp:term_name>
 	</wp:term>
 		<wp:term>
+		<wp:term_id>21</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[product]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[product]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>24</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[themes]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Themes]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>22</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[travel]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[travel]]></wp:term_name>
+	</wp:term>
+		<wp:term>
 		<wp:term_id>14</wp:term_id>
 		<wp:term_taxonomy><![CDATA[wp_theme]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[twentytwentyfour]]></wp:term_slug>
@@ -223,6 +276,13 @@
 		<wp:term_slug><![CDATA[uncategorized]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Uncategorized]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>20</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[wordpress]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[wordpress]]></wp:term_name>
 	</wp:term>
 		
 	<generator>https://wordpress.org/?v=6.6.1</generator>
@@ -579,13 +639,50 @@ Nostrud qui quis reprehenderit commodo proident elit. Consectetur veniam incidid
 <!-- wp:spacer {"height":"var:preset|spacing|10"} -->
 <div style="height:var(--wp--preset--spacing--10)" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"name":"Newsletter","categories":["newsletter"],"patternName":"kanso/newsletter-inline-dark"},"align":"full","style":{"spacing":{"padding":{"right":"0","left":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull" style="padding-right:0;padding-left:0"><!-- wp:group {"metadata":{"name":"Contents"},"className":"newsletter is-style-section-1","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|20","right":"var:preset|spacing|20"},"blockGap":"var:preset|spacing|30"}},"layout":{"type":"default"}} -->
+<div class="wp-block-group newsletter is-style-section-1" style="padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--20)"><!-- wp:group {"metadata":{"name":"Content"},"style":{"spacing":{"padding":{"right":"var:preset|spacing|40","left":"var:preset|spacing|40"}}},"layout":{"type":"constrained","contentSize":"340px"}} -->
+<div class="wp-block-group" style="padding-right:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Shaping WordPress</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"has-text-align-center has-medium-font-size"} -->
+<p class="has-text-align-center has-medium-font-size">Every two weeks, I'll send you what's top of my mind, what’s shaping up, where WordPress is headed, and how to use the new stuff.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"name":"Subscribe Form Embed"},"layout":{"type":"constrained","contentSize":"300px"}} -->
+<div class="wp-block-group"><!-- wp:html -->
+<form action="https://richtabor.us6.list-manage.com/subscribe/post?u=e7267bfd563b8f29ef95ba846&amp;id=3ad25ea4f0&amp;f_id=005231e3f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate subscribe" target="_self" novalidate="">
+    <input placeholder="Enter your email" type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value="">
+    <div hidden=""><input type="hidden" name="tags" value="3465146,3465838"></div>
+    <div aria-hidden="true" style="position: absolute; left: -5000px;">
+        <input type="text" name="b_e7267bfd563b8f29ef95ba846_3ad25ea4f0" tabindex="-1" value="">
+    </div>
+    <input type="submit" name="subscribe" id="mc-embedded-subscribe" class="wp-element-button" value="Subscribe →">
+</form>
+<!-- /wp:html --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"name":"Social Proof"},"style":{"spacing":{"blockGap":"12px"}},"layout":{"type":"default"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"13px"}}} -->
+<p class="has-text-align-center" style="font-size:13px">Join 3k+ other subscribers</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"lightbox":{"enabled":false},"id":4751,"width":"78px","sizeSlug":"full","linkDestination":"none","align":"center","className":"no-border"} -->
+<figure class="wp-block-image aligncenter size-full is-resized no-border"><img src="https://rich.blog/wp-content/uploads/2024/02/avatars.png" alt="" class="wp-image-4751" style="width:78px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
 <!-- /wp:group -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>6</wp:post_id>
 		<wp:post_date><![CDATA[2024-02-12 18:16:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-02-12 18:16:03]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-29 17:31:34]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-29 17:31:34]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-07-29 17:55:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-29 17:55:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[6-2]]></wp:post_name>
@@ -1853,8 +1950,8 @@ Nostrud qui quis reprehenderit commodo proident elit. Consectetur veniam incidid
 		<wp:post_id>1706</wp:post_id>
 		<wp:post_date><![CDATA[2024-07-06 17:59:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-07-06 17:59:27]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-06 17:59:27]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-06 17:59:27]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-07-29 17:40:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-29 17:40:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[your-corner-of-the-internet]]></wp:post_name>
@@ -1864,8 +1961,20 @@ Nostrud qui quis reprehenderit commodo proident elit. Consectetur veniam incidid
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						</item>
+										<category domain="post_tag" nicename="advice"><![CDATA[advice]]></category>
+		<category domain="post_tag" nicename="ai"><![CDATA[ai]]></category>
+		<category domain="post_tag" nicename="design"><![CDATA[design]]></category>
+		<category domain="post_tag" nicename="gutenberg"><![CDATA[Gutenberg]]></category>
+		<category domain="post_tag" nicename="product"><![CDATA[product]]></category>
+		<category domain="post_tag" nicename="themes"><![CDATA[Themes]]></category>
+		<category domain="post_tag" nicename="travel"><![CDATA[travel]]></category>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<category domain="post_tag" nicename="wordpress"><![CDATA[wordpress]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[Why WordPress]]></title>
 		<link>https://rich.test/why-wordpress/</link>
@@ -1920,8 +2029,8 @@ Nostrud qui quis reprehenderit commodo proident elit. Consectetur veniam incidid
 		<wp:post_id>1756</wp:post_id>
 		<wp:post_date><![CDATA[2024-07-29 16:56:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-07-29 16:56:19]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-29 17:13:03]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-29 17:13:03]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-07-29 17:40:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-29 17:40:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[why-wordpress]]></wp:post_name>
@@ -1932,10 +2041,19 @@ Nostrud qui quis reprehenderit commodo proident elit. Consectetur veniam incidid
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="advice"><![CDATA[advice]]></category>
-		<category domain="post_tag" nicename="blocks"><![CDATA[blocks]]></category>
+		<category domain="post_tag" nicename="ai"><![CDATA[ai]]></category>
 		<category domain="post_tag" nicename="design"><![CDATA[design]]></category>
 		<category domain="category" nicename="favorites"><![CDATA[Favorites]]></category>
-						</item>
+		<category domain="post_tag" nicename="gutenberg"><![CDATA[Gutenberg]]></category>
+		<category domain="post_tag" nicename="product"><![CDATA[product]]></category>
+		<category domain="post_tag" nicename="themes"><![CDATA[Themes]]></category>
+		<category domain="post_tag" nicename="travel"><![CDATA[travel]]></category>
+		<category domain="post_tag" nicename="wordpress"><![CDATA[wordpress]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[Tiny details]]></title>
 		<link>https://rich.test/tiny-details/</link>
@@ -1974,8 +2092,8 @@ Nostrud qui quis reprehenderit commodo proident elit. Consectetur veniam incidid
 		<wp:post_id>1762</wp:post_id>
 		<wp:post_date><![CDATA[2024-07-29 17:13:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-07-29 17:13:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-29 17:13:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-29 17:13:51]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-07-29 17:40:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-29 17:40:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[tiny-details]]></wp:post_name>
@@ -1986,9 +2104,19 @@ Nostrud qui quis reprehenderit commodo proident elit. Consectetur veniam incidid
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="advice"><![CDATA[advice]]></category>
+		<category domain="post_tag" nicename="ai"><![CDATA[ai]]></category>
 		<category domain="post_tag" nicename="design"><![CDATA[design]]></category>
 		<category domain="category" nicename="favorites"><![CDATA[Favorites]]></category>
-						</item>
+		<category domain="post_tag" nicename="gutenberg"><![CDATA[Gutenberg]]></category>
+		<category domain="post_tag" nicename="product"><![CDATA[product]]></category>
+		<category domain="post_tag" nicename="themes"><![CDATA[Themes]]></category>
+		<category domain="post_tag" nicename="travel"><![CDATA[travel]]></category>
+		<category domain="post_tag" nicename="wordpress"><![CDATA[wordpress]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[Archive]]></title>
 		<link>https://rich.test/archive/</link>
@@ -2519,10 +2647,6 @@ Nostrud qui quis reprehenderit commodo proident elit. Consectetur veniam incidid
 <!-- wp:group {"metadata":{"name":"Right"},"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group"><!-- wp:navigation {"ref":4,"overlayMenu":"never","layout":{"type":"flex","flexWrap":"nowrap"}} /-->
 
-<!-- wp:paragraph -->
-<p>p</p>
-<!-- /wp:paragraph -->
-
 <!-- wp:tabor/dark-mode-toggle -->
 <div class="wp-block-tabor-dark-mode-toggle is-small"><label class="wp-block-tabor-dark-mode-toggle__label" for="theme-toggle"><input type="checkbox" class="wp-block-tabor-dark-mode-toggle__input" id="theme-toggle" aria-label="Toggle dark mode"/><span class="wp-block-tabor-dark-mode-toggle__track"><span class="wp-block-tabor-dark-mode-toggle__selector"><span class="wp-block-tabor-dark-mode-toggle__icon wp-block-tabor-dark-mode-toggle__icon--light" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M13 2a1 1 0 1 0-2 0v1a1 1 0 1 0 2 0V2Zm0 19a1 1 0 1 0-2 0v1a1 1 0 1 0 2 0v-1Zm6.777-16.777a1 1 0 0 1 0 1.414l-.71.71a1 1 0 1 1-1.414-1.414l.71-.71a1 1 0 0 1 1.414 0ZM6.347 19.067a1 1 0 1 0-1.414-1.414l-.71.71a1 1 0 1 0 1.414 1.414l.71-.71ZM20 12a1 1 0 0 1 1-1h1a1 1 0 1 1 0 2h-1a1 1 0 0 1-1-1ZM2 11a1 1 0 1 0 0 2h1a1 1 0 1 0 0-2H2Zm15.653 6.653a1 1 0 0 1 1.414 0l.71.71a1 1 0 0 1-1.414 1.414l-.71-.71a1 1 0 0 1 0-1.414ZM5.637 4.223a1 1 0 1 0-1.414 1.414l.71.71a1 1 0 0 0 1.414-1.414l-.71-.71Zm2.12 3.534a6 6 0 1 1 8.486 8.486 6 6 0 0 1-8.486-8.486Z"></path></svg></span><span class="wp-block-tabor-dark-mode-toggle__icon wp-block-tabor-dark-mode-toggle__icon--dark" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12.056 3.6a1 1 0 0 0-.908-1.564c-5.123.434-9.144 4.728-9.144 9.962 0 5.522 4.476 9.998 9.998 9.998 5.234 0 9.528-4.021 9.962-9.144a1 1 0 0 0-1.564-.908A6 6 0 0 1 12.055 3.6Z"></path></svg></span></span></span></label></div>
 <!-- /wp:tabor/dark-mode-toggle --></div>
@@ -2533,8 +2657,8 @@ Nostrud qui quis reprehenderit commodo proident elit. Consectetur veniam incidid
 		<wp:post_id>1705</wp:post_id>
 		<wp:post_date><![CDATA[2024-07-06 17:58:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-07-06 17:58:57]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-29 17:38:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-29 17:38:26]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-07-29 17:42:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-29 17:42:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[header]]></wp:post_name>
