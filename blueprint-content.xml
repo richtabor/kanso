@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.6.1" created="2024-07-29 16:58" -->
+	<!-- generator="WordPress/6.6.1" created="2024-07-29 17:14" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Rich Tabor</title>
 	<link>https://rich.test</link>
 	<description>Multidisciplinary maker specializing in the intersection of product, design and engineering. Making WordPress.</description>
-	<pubDate>Mon, 29 Jul 2024 16:58:36 +0000</pubDate>
+	<pubDate>Mon, 29 Jul 2024 17:14:42 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://rich.test</wp:base_site_url>
@@ -711,12 +711,12 @@ Nostrud qui quis reprehenderit commodo proident elit. Consectetur veniam incidid
 		<wp:post_id>190</wp:post_id>
 		<wp:post_date><![CDATA[2024-02-13 16:48:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-02-13 16:48:13]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-04-29 14:28:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-04-29 14:28:42]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-07-29 17:12:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-29 17:12:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[lets-build-more-blocks]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_name><![CDATA[lets-build-more-blocks__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[post]]></wp:post_type>
@@ -731,6 +731,18 @@ Nostrud qui quis reprehenderit commodo proident elit. Consectetur veniam incidid
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1722273146]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[lets-build-more-blocks]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1889,34 +1901,6 @@ Nostrud qui quis reprehenderit commodo proident elit. Consectetur veniam incidid
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[advent pro;italic;500;100%;U+0-10FFFF]]></title>
-		<link>https://rich.test/?p=1674</link>
-		<pubDate>Wed, 26 Jun 2024 12:26:47 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://rich.test/?p=1674</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"src":"https:\/\/rich.test\/wp-content\/uploads\/fonts\/V8mkoQfxVT4Dvddr_yOwhT-3Jr6w5kKOEbAVEvZiKGAr6BX29i1ei2CVD5ApvQhKBH4C.woff2","fontWeight":"500","fontStyle":"italic","fontFamily":"\"Advent Pro\"","preview":"https:\/\/s.w.org\/images\/fonts\/17.7\/previews\/advent-pro\/advent-pro-500-italic.svg"}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1674</wp:post_id>
-		<wp:post_date><![CDATA[2024-06-26 12:26:47]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-06-26 12:26:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-06-26 12:26:47]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-06-26 12:26:47]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[advent-proitalic500100u0-10ffff]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>1673</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_font_face_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[V8mkoQfxVT4Dvddr_yOwhT-3Jr6w5kKOEbAVEvZiKGAr6BX29i1ei2CVD5ApvQhKBH4C.woff2]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Your corner of the internet]]></title>
 		<link>https://rich.test/?p=1706</link>
 		<pubDate>Sat, 06 Jul 2024 17:59:27 +0000</pubDate>
@@ -1975,8 +1959,16 @@ Nostrud qui quis reprehenderit commodo proident elit. Consectetur veniam incidid
 		<guid isPermaLink="false">https://rich.test/?p=1756</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>I ran into&nbsp;<a href="https://twitter.com/webrunlabs/status/1677353969130127360?s=61&amp;t=LhohA3Fo7N9j8M8_wFR92Q">this Twitter thread</a>&nbsp;on "how WordPress is all wrong for your SMB site in 2023". Well, here's my counter. If you’re&nbsp;<em>not</em>&nbsp;using WordPress for your site in 2023, you’re probably doing it wrong. Here's why WordPress is probably right for you.</p>
+<p>I ran into&nbsp;<a href="https://twitter.com/webrunlabs/status/1677353969130127360?s=61&amp;t=LhohA3Fo7N9j8M8_wFR92Q">this Twitter thread</a>&nbsp;on "how WordPress is all wrong for your SMB site in 2023". Well, here's my counter. If you’re&nbsp;<em>not</em>&nbsp;using WordPress for your site in 2023, you’re probably doing it wrong. </p>
 <!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>So here's why WordPress is probably right for you.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:more -->
+<!--more-->
+<!-- /wp:more -->
 
 <!-- wp:paragraph -->
 <p><strong>WordPress is open source</strong>—supported by enthusiastic developers, designers, marketers, bloggers, and more. Licensed under the&nbsp;<a href="https://en.wikipedia.org/wiki/GNU_General_Public_License">GPL</a>, you have the freedom to run WordPress for any purpose, study the source code, change it, redistribute, and distribute copies. Everyone benefits from your contributions.&nbsp;</p>
@@ -2013,8 +2005,8 @@ Nostrud qui quis reprehenderit commodo proident elit. Consectetur veniam incidid
 		<wp:post_id>1756</wp:post_id>
 		<wp:post_date><![CDATA[2024-07-29 16:56:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-07-29 16:56:19]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-29 16:56:31]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-29 16:56:31]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-07-29 17:13:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-29 17:13:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[why-wordpress]]></wp:post_name>
@@ -2026,6 +2018,59 @@ Nostrud qui quis reprehenderit commodo proident elit. Consectetur veniam incidid
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="advice"><![CDATA[advice]]></category>
 		<category domain="post_tag" nicename="blocks"><![CDATA[blocks]]></category>
+		<category domain="post_tag" nicename="design"><![CDATA[design]]></category>
+		<category domain="category" nicename="favorites"><![CDATA[Favorites]]></category>
+						</item>
+					<item>
+		<title><![CDATA[Tiny details]]></title>
+		<link>https://rich.test/?p=1762</link>
+		<pubDate>Mon, 29 Jul 2024 17:13:51 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://rich.test/?p=1762</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Like the nuanced brushstrokes of a painting or the delicate notes of a melody, tiny details often go unnoticed, yet they play a key role in profoundly shaping creative outcomes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In the realm of&nbsp;<a href="https://rich.blog/topic/design/">design</a>&nbsp;and product, these tiny details are essential catalysts for curating thoughtful experiences.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Subtle animations, uniform copy, cohesive design metrics, and harmonious micro-interactions all come together seamlessly to level-up an application into a delightful user experience.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>You might not see tiny details, but you certainly feel them.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Tiny details are not just embellishments; they are the cornerstone of design. And it's in these seemingly insignificant tiny details that we transform mediocrity into excellence.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Such attentiveness to detail is absolutely vital, as the antithesis of tiny details is carelessness—which leads to outcomes that feel unfinished and unintuitive.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>So, sweat the tiny details; they matter more than you think.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1762</wp:post_id>
+		<wp:post_date><![CDATA[2024-07-29 17:13:51]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-07-29 17:13:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-07-29 17:13:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-29 17:13:51]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[tiny-details]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="post_tag" nicename="advice"><![CDATA[advice]]></category>
 		<category domain="post_tag" nicename="design"><![CDATA[design]]></category>
 		<category domain="category" nicename="favorites"><![CDATA[Favorites]]></category>
 						</item>
@@ -2253,6 +2298,34 @@ Nostrud qui quis reprehenderit commodo proident elit. Consectetur veniam incidid
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
+					<item>
+		<title><![CDATA[advent pro;italic;500;100%;U+0-10FFFF]]></title>
+		<link>https://rich.test/?p=1674</link>
+		<pubDate>Wed, 26 Jun 2024 12:26:47 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://rich.test/?p=1674</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"src":"https:\/\/rich.test\/wp-content\/uploads\/fonts\/V8mkoQfxVT4Dvddr_yOwhT-3Jr6w5kKOEbAVEvZiKGAr6BX29i1ei2CVD5ApvQhKBH4C.woff2","fontWeight":"500","fontStyle":"italic","fontFamily":"\"Advent Pro\"","preview":"https:\/\/s.w.org\/images\/fonts\/17.7\/previews\/advent-pro\/advent-pro-500-italic.svg"}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1674</wp:post_id>
+		<wp:post_date><![CDATA[2024-06-26 12:26:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-06-26 12:26:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-06-26 12:26:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-06-26 12:26:47]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[advent-proitalic500100u0-10ffff]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>1673</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_font_face_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[V8mkoQfxVT4Dvddr_yOwhT-3Jr6w5kKOEbAVEvZiKGAr6BX29i1ei2CVD5ApvQhKBH4C.woff2]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[advent pro;italic;600;100%;U+0-10FFFF]]></title>
 		<link>https://rich.test/?p=1675</link>
