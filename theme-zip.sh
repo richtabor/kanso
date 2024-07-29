@@ -20,6 +20,8 @@ zip -r $ZIP_FILE . -x \
     "composer.json" \
     "package.json" \
     "package-lock.json" \
+    "blueprint.json" \
+    "blueprint-content.xml" \
     "README.md" \
     "theme-zip.sh" \
     "${THEME_NAME}*" \
