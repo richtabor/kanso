@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.6.1" created="2024-07-29 17:14" -->
+	<!-- generator="WordPress/6.6.1" created="2024-07-29 17:31" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Rich Tabor</title>
 	<link>https://rich.test</link>
 	<description>Multidisciplinary maker specializing in the intersection of product, design and engineering. Making WordPress.</description>
-	<pubDate>Mon, 29 Jul 2024 17:14:42 +0000</pubDate>
+	<pubDate>Mon, 29 Jul 2024 17:31:59 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://rich.test</wp:base_site_url>
@@ -378,7 +378,7 @@ Nostrud qui quis reprehenderit commodo proident elit. Consectetur veniam incidid
 					</item>
 					<item>
 		<title><![CDATA[Posts]]></title>
-		<link>https://rich.test/?page_id=2</link>
+		<link>https://rich.test/posts/</link>
 		<pubDate>Thu, 01 Feb 2024 16:29:02 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://rich.test/?page_id=2</guid>
@@ -433,7 +433,7 @@ Nostrud qui quis reprehenderit commodo proident elit. Consectetur veniam incidid
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Home]]></title>
+		<title><![CDATA[Hi, I'm Rich Tabor]]></title>
 		<link>https://rich.test/</link>
 		<pubDate>Mon, 12 Feb 2024 18:16:03 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
@@ -584,8 +584,8 @@ Nostrud qui quis reprehenderit commodo proident elit. Consectetur veniam incidid
 		<wp:post_id>6</wp:post_id>
 		<wp:post_date><![CDATA[2024-02-12 18:16:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-02-12 18:16:03]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-29 16:54:27]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-29 16:54:27]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-07-29 17:31:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-29 17:31:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[6-2]]></wp:post_name>
@@ -598,39 +598,6 @@ Nostrud qui quis reprehenderit commodo proident elit. Consectetur veniam incidid
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[rich-avatar-bw]]></title>
-		<link>https://rich.blog/?attachment_id=4963</link>
-		<pubDate>Mon, 12 Feb 2024 19:07:46 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://rich.blog/wp-content/uploads/2024/03/rich-avatar-bw.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4963</wp:post_id>
-		<wp:post_date><![CDATA[2024-02-12 19:07:46]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-02-12 19:07:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-12 19:07:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-02-12 19:07:46]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[rich-avatar-bw]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>1</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://rich.blog/wp-content/uploads/2024/03/rich-avatar-bw.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2024/02/2024/03/rich-avatar-bw.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1602;s:6:"height";i:1602;s:4:"file";s:24:"2024/03/rich-avatar-bw.jpg";s:8:"filesize";i:740471;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:24:"4B9A3863-1-2-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8680;}s:5:"large";a:5:{s:4:"file";s:26:"4B9A3863-1-2-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:84962;}s:9:"thumbnail";a:5:{s:4:"file";s:24:"4B9A3863-1-2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3213;}s:12:"medium_large";a:5:{s:4:"file";s:24:"4B9A3863-1-2-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:48559;}s:9:"1536x1536";a:5:{s:4:"file";s:26:"4B9A3863-1-2-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:177862;}}s:10:"image_meta";a:12:{s:8:"aperture";s:3:"2.2";s:6:"credit";s:13:"Chey Holbrook";s:6:"camera";s:14:"Canon EOS R6m2";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1706872581";s:9:"copyright";s:16:"Chey Photography";s:12:"focal_length";s:2:"50";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:5:"0.008";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1305,7 +1272,7 @@ Nostrud qui quis reprehenderit commodo proident elit. Consectetur veniam incidid
 							</item>
 					<item>
 		<title><![CDATA[About]]></title>
-		<link>https://rich.test/?page_id=264</link>
+		<link>https://rich.test/about/</link>
 		<pubDate>Fri, 16 Feb 2024 13:57:28 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://rich.test/?page_id=264</guid>
@@ -1677,7 +1644,7 @@ Nostrud qui quis reprehenderit commodo proident elit. Consectetur veniam incidid
 							</item>
 					<item>
 		<title><![CDATA[abeezee;italic;400;100%;U+0-10FFFF]]></title>
-		<link>https://rich.test/?p=1137</link>
+		<link>https://rich.test/abeezeeitalic400100u0-10ffff/</link>
 		<pubDate>Wed, 01 May 2024 11:34:57 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://rich.test/?p=1137</guid>
@@ -1705,7 +1672,7 @@ Nostrud qui quis reprehenderit commodo proident elit. Consectetur veniam incidid
 							</item>
 					<item>
 		<title><![CDATA[abeezee;normal;400;100%;U+0-10FFFF]]></title>
-		<link>https://rich.test/?p=1138</link>
+		<link>https://rich.test/abeezeenormal400100u0-10ffff/</link>
 		<pubDate>Wed, 01 May 2024 11:34:57 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://rich.test/?p=1138</guid>
@@ -1846,7 +1813,7 @@ Nostrud qui quis reprehenderit commodo proident elit. Consectetur veniam incidid
 							</item>
 					<item>
 		<title><![CDATA[adlam display;normal;400;100%;U+0-10FFFF]]></title>
-		<link>https://rich.test/?p=1668</link>
+		<link>https://rich.test/adlam-displaynormal400100u0-10ffff/</link>
 		<pubDate>Wed, 26 Jun 2024 12:26:29 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://rich.test/?p=1668</guid>
@@ -1873,36 +1840,8 @@ Nostrud qui quis reprehenderit commodo proident elit. Consectetur veniam incidid
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[actor;normal;400;100%;U+0-10FFFF]]></title>
-		<link>https://rich.test/?p=1671</link>
-		<pubDate>Wed, 26 Jun 2024 12:26:39 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://rich.test/?p=1671</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"src":"https:\/\/rich.test\/wp-content\/uploads\/fonts\/wEOzEBbCkc5cO3ehXygtUMIO.woff2","fontWeight":"400","fontStyle":"normal","fontFamily":"Actor","preview":"https:\/\/s.w.org\/images\/fonts\/17.7\/previews\/actor\/actor-400-normal.svg"}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1671</wp:post_id>
-		<wp:post_date><![CDATA[2024-06-26 12:26:39]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-06-26 12:26:39]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-06-26 12:26:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-06-26 12:26:39]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[actornormal400100u0-10ffff]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>1670</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_font_face_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[wEOzEBbCkc5cO3ehXygtUMIO.woff2]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Your corner of the internet]]></title>
-		<link>https://rich.test/?p=1706</link>
+		<link>https://rich.test/your-corner-of-the-internet/</link>
 		<pubDate>Sat, 06 Jul 2024 17:59:27 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://rich.test/?p=1706</guid>
@@ -1953,7 +1892,7 @@ Nostrud qui quis reprehenderit commodo proident elit. Consectetur veniam incidid
 						</item>
 					<item>
 		<title><![CDATA[Why WordPress]]></title>
-		<link>https://rich.test/?p=1756</link>
+		<link>https://rich.test/why-wordpress/</link>
 		<pubDate>Mon, 29 Jul 2024 16:56:19 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://rich.test/?p=1756</guid>
@@ -2023,7 +1962,7 @@ Nostrud qui quis reprehenderit commodo proident elit. Consectetur veniam incidid
 						</item>
 					<item>
 		<title><![CDATA[Tiny details]]></title>
-		<link>https://rich.test/?p=1762</link>
+		<link>https://rich.test/tiny-details/</link>
 		<pubDate>Mon, 29 Jul 2024 17:13:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://rich.test/?p=1762</guid>
@@ -2075,8 +2014,83 @@ Nostrud qui quis reprehenderit commodo proident elit. Consectetur veniam incidid
 		<category domain="category" nicename="favorites"><![CDATA[Favorites]]></category>
 						</item>
 					<item>
+		<title><![CDATA[Archive]]></title>
+		<link>https://rich.test/archive/</link>
+		<pubDate>Mon, 29 Jul 2024 17:30:12 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://rich.test/?page_id=1764</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>An archive of all my notes, ideas, development tips, travel, and WordPress expertise.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|10"} -->
+<div style="height:var(--wp--preset--spacing--10)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"metadata":{"name":"Post list","categories":["featured"],"patternName":"kanso/posts-list"},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:query {"queryId":0,"query":{"perPage":"60","pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false}} -->
+<div class="wp-block-query"><!-- wp:post-template {"style":{"spacing":{"blockGap":"var:preset|spacing|10"}}} -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"2px","bottom":"2px","left":"0px","right":"0px"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
+<div class="wp-block-group" style="padding-top:2px;padding-right:0px;padding-bottom:2px;padding-left:0px"><!-- wp:post-title {"isLink":true,"className":"no-underline truncate","style":{"spacing":{"padding":{"top":"0px","bottom":"0px"}},"typography":{"lineHeight":"1.2"}},"fontSize":"large"} /-->
+
+<!-- wp:post-date {"textAlign":"right","format":"M Y","style":{"typography":{"lineHeight":"1.2"}}} /--></div>
+<!-- /wp:group -->
+<!-- /wp:post-template --></div>
+<!-- /wp:query --></div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1764</wp:post_id>
+		<wp:post_date><![CDATA[2024-07-29 17:30:12]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-07-29 17:30:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-07-29 17:30:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-29 17:30:12]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[archive]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[logo]]></title>
+		<link>https://rich.test/logo/</link>
+		<pubDate>Mon, 29 Jul 2024 17:30:43 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://rich.test/wp-content/uploads/2024/07/logo.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1766</wp:post_id>
+		<wp:post_date><![CDATA[2024-07-29 17:30:43]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-07-29 17:30:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-07-29 17:30:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-29 17:30:43]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[logo]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://rich.test/wp-content/uploads/2024/07/logo.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024/07/logo.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1602;s:6:"height";i:1602;s:4:"file";s:16:"2024/07/logo.jpg";s:8:"filesize";i:740471;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:16:"logo-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8680;}s:5:"large";a:5:{s:4:"file";s:18:"logo-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:84962;}s:9:"thumbnail";a:5:{s:4:"file";s:16:"logo-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3213;}s:12:"medium_large";a:5:{s:4:"file";s:16:"logo-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:48559;}s:9:"1536x1536";a:5:{s:4:"file";s:18:"logo-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:177862;}}s:10:"image_meta";a:12:{s:8:"aperture";s:3:"2.2";s:6:"credit";s:13:"Chey Holbrook";s:6:"camera";s:14:"Canon EOS R6m2";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1706872581";s:9:"copyright";s:16:"Chey Photography";s:12:"focal_length";s:2:"50";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:5:"0.008";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Navigation]]></title>
-		<link>https://rich.test/?p=4</link>
+		<link>https://rich.test/navigation/</link>
 		<pubDate>Mon, 12 Feb 2024 18:15:22 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://rich.test/?p=4</guid>
@@ -2104,7 +2118,7 @@ Nostrud qui quis reprehenderit commodo proident elit. Consectetur veniam incidid
 														</item>
 					<item>
 		<title><![CDATA[Custom Styles]]></title>
-		<link>https://rich.test/?p=7</link>
+		<link>https://rich.test/wp-global-styles-kanso/</link>
 		<pubDate>Mon, 12 Feb 2024 18:15:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://rich.test/?p=7</guid>
@@ -2129,7 +2143,7 @@ Nostrud qui quis reprehenderit commodo proident elit. Consectetur veniam incidid
 						</item>
 					<item>
 		<title><![CDATA[Custom Styles]]></title>
-		<link>https://rich.test/?p=345</link>
+		<link>https://rich.test/wp-global-styles-twentytwentyfour/</link>
 		<pubDate>Thu, 22 Feb 2024 09:51:08 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://rich.test/?p=345</guid>
@@ -2154,7 +2168,7 @@ Nostrud qui quis reprehenderit commodo proident elit. Consectetur veniam incidid
 						</item>
 					<item>
 		<title><![CDATA[ABeeZee]]></title>
-		<link>https://rich.test/?p=1136</link>
+		<link>https://rich.test/abeezee/</link>
 		<pubDate>Wed, 01 May 2024 11:34:57 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://rich.test/?p=1136</guid>
@@ -2178,7 +2192,7 @@ Nostrud qui quis reprehenderit commodo proident elit. Consectetur veniam incidid
 														</item>
 					<item>
 		<title><![CDATA[Custom Styles]]></title>
-		<link>https://rich.test/?p=1375</link>
+		<link>https://rich.test/wp-global-styles-greyd-wp/</link>
 		<pubDate>Wed, 29 May 2024 17:39:29 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://rich.test/?p=1375</guid>
@@ -2203,7 +2217,7 @@ Nostrud qui quis reprehenderit commodo proident elit. Consectetur veniam incidid
 						</item>
 					<item>
 		<title><![CDATA[Custom Styles]]></title>
-		<link>https://rich.test/?p=1376</link>
+		<link>https://rich.test/wp-global-styles-powder/</link>
 		<pubDate>Thu, 30 May 2024 14:20:58 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://rich.test/?p=1376</guid>
@@ -2228,7 +2242,7 @@ Nostrud qui quis reprehenderit commodo proident elit. Consectetur veniam incidid
 						</item>
 					<item>
 		<title><![CDATA[ADLaM Display]]></title>
-		<link>https://rich.test/?p=1667</link>
+		<link>https://rich.test/adlam-display/</link>
 		<pubDate>Wed, 26 Jun 2024 12:26:28 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://rich.test/?p=1667</guid>
@@ -2252,7 +2266,7 @@ Nostrud qui quis reprehenderit commodo proident elit. Consectetur veniam incidid
 														</item>
 					<item>
 		<title><![CDATA[Actor]]></title>
-		<link>https://rich.test/?p=1670</link>
+		<link>https://rich.test/actor/</link>
 		<pubDate>Wed, 26 Jun 2024 12:26:39 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://rich.test/?p=1670</guid>
@@ -2275,8 +2289,36 @@ Nostrud qui quis reprehenderit commodo proident elit. Consectetur veniam incidid
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
+		<title><![CDATA[actor;normal;400;100%;U+0-10FFFF]]></title>
+		<link>https://rich.test/actornormal400100u0-10ffff/</link>
+		<pubDate>Wed, 26 Jun 2024 12:26:39 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://rich.test/?p=1671</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"src":"https:\/\/rich.test\/wp-content\/uploads\/fonts\/wEOzEBbCkc5cO3ehXygtUMIO.woff2","fontWeight":"400","fontStyle":"normal","fontFamily":"Actor","preview":"https:\/\/s.w.org\/images\/fonts\/17.7\/previews\/actor\/actor-400-normal.svg"}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1671</wp:post_id>
+		<wp:post_date><![CDATA[2024-06-26 12:26:39]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-06-26 12:26:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-06-26 12:26:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-06-26 12:26:39]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[actornormal400100u0-10ffff]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>1670</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_font_face_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[wEOzEBbCkc5cO3ehXygtUMIO.woff2]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Advent Pro]]></title>
-		<link>https://rich.test/?p=1673</link>
+		<link>https://rich.test/advent-pro/</link>
 		<pubDate>Wed, 26 Jun 2024 12:26:47 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://rich.test/?p=1673</guid>
@@ -2300,7 +2342,7 @@ Nostrud qui quis reprehenderit commodo proident elit. Consectetur veniam incidid
 														</item>
 					<item>
 		<title><![CDATA[advent pro;italic;500;100%;U+0-10FFFF]]></title>
-		<link>https://rich.test/?p=1674</link>
+		<link>https://rich.test/advent-proitalic500100u0-10ffff/</link>
 		<pubDate>Wed, 26 Jun 2024 12:26:47 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://rich.test/?p=1674</guid>
@@ -2328,7 +2370,7 @@ Nostrud qui quis reprehenderit commodo proident elit. Consectetur veniam incidid
 							</item>
 					<item>
 		<title><![CDATA[advent pro;italic;600;100%;U+0-10FFFF]]></title>
-		<link>https://rich.test/?p=1675</link>
+		<link>https://rich.test/advent-proitalic600100u0-10ffff/</link>
 		<pubDate>Wed, 26 Jun 2024 12:26:47 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://rich.test/?p=1675</guid>
@@ -2356,7 +2398,7 @@ Nostrud qui quis reprehenderit commodo proident elit. Consectetur veniam incidid
 							</item>
 					<item>
 		<title><![CDATA[Angkor]]></title>
-		<link>https://rich.test/?p=1677</link>
+		<link>https://rich.test/angkor/</link>
 		<pubDate>Wed, 26 Jun 2024 12:27:01 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://rich.test/?p=1677</guid>
@@ -2380,7 +2422,7 @@ Nostrud qui quis reprehenderit commodo proident elit. Consectetur veniam incidid
 														</item>
 					<item>
 		<title><![CDATA[angkor;normal;400;100%;U+0-10FFFF]]></title>
-		<link>https://rich.test/?p=1678</link>
+		<link>https://rich.test/angkornormal400100u0-10ffff/</link>
 		<pubDate>Wed, 26 Jun 2024 12:27:01 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://rich.test/?p=1678</guid>
@@ -2408,7 +2450,7 @@ Nostrud qui quis reprehenderit commodo proident elit. Consectetur veniam incidid
 							</item>
 					<item>
 		<title><![CDATA[Abhaya Libre]]></title>
-		<link>https://rich.test/?p=1680</link>
+		<link>https://rich.test/abhaya-libre/</link>
 		<pubDate>Wed, 26 Jun 2024 12:27:08 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://rich.test/?p=1680</guid>
@@ -2432,7 +2474,7 @@ Nostrud qui quis reprehenderit commodo proident elit. Consectetur veniam incidid
 														</item>
 					<item>
 		<title><![CDATA[abhaya libre;normal;800;100%;U+0-10FFFF]]></title>
-		<link>https://rich.test/?p=1681</link>
+		<link>https://rich.test/abhaya-librenormal800100u0-10ffff/</link>
 		<pubDate>Wed, 26 Jun 2024 12:27:08 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://rich.test/?p=1681</guid>
@@ -2460,7 +2502,7 @@ Nostrud qui quis reprehenderit commodo proident elit. Consectetur veniam incidid
 							</item>
 					<item>
 		<title><![CDATA[Custom Styles]]></title>
-		<link>https://rich.test/?p=1686</link>
+		<link>https://rich.test/wp-global-styles-idea-flow/</link>
 		<pubDate>Sun, 30 Jun 2024 19:12:42 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://rich.test/?p=1686</guid>
@@ -2485,7 +2527,7 @@ Nostrud qui quis reprehenderit commodo proident elit. Consectetur veniam incidid
 						</item>
 					<item>
 		<title><![CDATA[Header]]></title>
-		<link>https://rich.test/?p=1705</link>
+		<link>https://rich.test/header/</link>
 		<pubDate>Sat, 06 Jul 2024 17:58:57 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://rich.test/?p=1705</guid>
@@ -2529,7 +2571,7 @@ Nostrud qui quis reprehenderit commodo proident elit. Consectetur veniam incidid
 							</item>
 					<item>
 		<title><![CDATA[Index]]></title>
-		<link>https://rich.test/?p=1755</link>
+		<link>https://rich.test/index/</link>
 		<pubDate>Mon, 29 Jul 2024 16:54:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://rich.test/?p=1755</guid>
