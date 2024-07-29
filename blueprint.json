@@ -8,7 +8,6 @@
 	},
 	"landingPage": "/wp-admin/site-editor.php",
 	"login": true,
-	"mode": "seamless",
 	"steps": [
 		{
 			"step": "resetData"
