@@ -7,8 +7,16 @@
 		"categories": [ "theme" ]
 	},
 	"landingPage": "/wp-admin/site-editor.php",
-    "login": true,
+	"login": true,
 	"steps": [
+		{
+			"step": "resetData"
+		},
+		{
+			"step": "writeFile",
+			"path": "/wordpress/wp-content/mu-plugins/rewrite.php",
+			"data": "<?php /* Use pretty permalinks */ add_action( 'after_setup_theme', function() { global $wp_rewrite; $wp_rewrite->set_permalink_structure('/%postname%/'); $wp_rewrite->flush_rules(); } );"
+		},
         {
 			"step": "updateUserMeta",
 			"meta": {
@@ -17,13 +25,14 @@
 			"userId": 1
 		},
         {
-			"step": "resetData"
-		},
-		{
-			"step": "writeFile",
-			"path": "/wordpress/wp-content/mu-plugins/rewrite.php",
-			"data": "<?php /* Use pretty permalinks */ add_action( 'after_setup_theme', function() { global $wp_rewrite; $wp_rewrite->set_permalink_structure('/%postname%/'); $wp_rewrite->flush_rules(); } );"
-		},
+            "step": "updateUserMeta",
+            "meta": {
+                "first_name": "Rich",
+                "last_name": "Tabor",
+                "email": "rich@tabor.email"
+            },
+            "userId": 1
+        },
 		{
 			"step": "installTheme",
 			"themeZipFile": {
@@ -41,5 +50,6 @@
 				"blogdescription": "Multidisciplinary maker specializing in the intersection of product, design and engineering. Making WordPress."
 			}
 		}
-	]
+	],
+	"plugins": [ "todo-list-block", "markdown-comment-block" ]
 }
