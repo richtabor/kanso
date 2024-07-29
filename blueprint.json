@@ -17,22 +17,21 @@
 			"path": "/wordpress/wp-content/mu-plugins/rewrite.php",
 			"data": "<?php /* Use pretty permalinks */ add_action( 'after_setup_theme', function() { global $wp_rewrite; $wp_rewrite->set_permalink_structure('/%postname%/'); $wp_rewrite->flush_rules(); } );"
 		},
-        {
+		{
 			"step": "updateUserMeta",
 			"meta": {
 				"admin_color": "modern"
 			},
 			"userId": 1
 		},
-        {
-            "step": "updateUserMeta",
-            "meta": {
-                "first_name": "Rich",
-                "last_name": "Tabor",
-                "email": "rich@tabor.email"
-            },
-            "userId": 1
-        },
+		{
+			"step": "updateUserMeta",
+			"meta": {
+				"first_name": "Rich",
+				"last_name": "Tabor"
+			},
+			"userId": 1
+		},
 		{
 			"step": "installTheme",
 			"themeZipFile": {
@@ -44,10 +43,19 @@
 			}
 		},
 		{
+			"step": "importWxr",
+			"file": {
+				"resource": "url",
+				"url": "https://raw.githubusercontent.com/richtabor/kanso/main/blueprint-content.xml"
+			}
+		},
+		{
 			"step": "setSiteOptions",
 			"options": {
 				"blogname": "Rich Tabor",
-				"blogdescription": "Multidisciplinary maker specializing in the intersection of product, design and engineering. Making WordPress."
+				"blogdescription": "Multidisciplinary maker specializing in the intersection of product, design and engineering. Making WordPress.",
+				"page_on_front": 6,
+				"page_for_posts": 2
 			}
 		}
 	],
