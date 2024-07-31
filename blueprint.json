@@ -46,7 +46,7 @@
 			"step": "importWxr",
 			"file": {
 				"resource": "url",
-				"url": "https://raw.githubusercontent.com/richtabor/kanso/improve/blueprint/blueprint-content.xml"
+				"url": "https://raw.githubusercontent.com/richtabor/kanso/blueprint-content.xml"
 			}
 		},
 		{
