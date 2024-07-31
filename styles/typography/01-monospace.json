@@ -13,11 +13,11 @@
 				},
 				{
 					"fluid": {
-						"max": "0.9rem",
-						"min": "0.8rem"
+						"max": "0.85rem",
+						"min": "0.75rem"
 					},
 					"name": "Medium",
-					"size": "0.9rem",
+					"size": "0.85rem",
 					"slug": "medium"
 				},
 				{
@@ -99,7 +99,7 @@
 		},
 		"typography": {
 			"fontFamily": "var(--wp--preset--font-family--geist-mono)",
-			"lineHeight": "1.65",
+			"lineHeight": "1.7",
 			"letterSpacing": "normal"
 		},
 		"variations": {
