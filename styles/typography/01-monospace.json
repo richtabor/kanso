@@ -8,34 +8,34 @@
 				{
 					"fluid": false,
 					"name": "Small",
-					"size": "0.9rem",
+					"size": "0.8rem",
 					"slug": "small"
 				},
 				{
 					"fluid": {
-						"max": "0.975rem",
-						"min": "0.885rem"
+						"max": "0.9rem",
+						"min": "0.8rem"
 					},
 					"name": "Medium",
-					"size": "0.975rem",
+					"size": "0.9rem",
 					"slug": "medium"
 				},
 				{
 					"fluid": {
-						"max": "1.1rem",
+						"max": "1rem",
 						"min": "0.975rem"
 					},
 					"name": "Large",
-					"size": "1.1rem",
+					"size": "1rem",
 					"slug": "large"
 				},
 				{
 					"fluid": {
-						"max": "1.2rem",
-						"min": "1.1rem"
+						"max": "1.05rem",
+						"min": "1rem"
 					},
 					"name": "Extra Large",
-					"size": "1.2rem",
+					"size": "1.05rem",
 					"slug": "x-large"
 				}
 			]
@@ -98,8 +98,8 @@
 			}
 		},
 		"typography": {
-			"fontFamily": "var(--wp--preset--font-family--inconsolata)",
-			"lineHeight": "1.5",
+			"fontFamily": "var(--wp--preset--font-family--geist-mono)",
+			"lineHeight": "1.65",
 			"letterSpacing": "normal"
 		},
 		"variations": {
@@ -123,7 +123,7 @@
 					"textTransform": "none",
 					"fontStyle": "normal",
 					"letterSpacing": "normal",
-					"fontFamily": "var(--wp--preset--font-family--inconsolata)",
+					"fontFamily": "var(--wp--preset--font-family--geist-mono)",
 					"lineHeight": "1.4",
 					"fontWeight": "600"
 				}
@@ -148,7 +148,7 @@
 					"textTransform": "uppercase",
 					"fontStyle": "normal",
 					"letterSpacing": "0.05em",
-					"fontFamily": "var(--wp--preset--font-family--inconsolata)",
+					"fontFamily": "var(--wp--preset--font-family--geist-mono)",
 					"lineHeight": "1.5",
 					"fontWeight": "400"
 				}

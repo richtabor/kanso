@@ -199,18 +199,18 @@
 				{
 					"fontFace": [
 						{
-							"fontFamily": "Inconsolata",
+							"fontFamily": "Geist Mono",
 							"fontStretch": "normal",
 							"fontStyle": "normal",
 							"fontWeight": "100 800",
 							"src": [
-								"file:./assets/fonts/inconsolata/InconsolataVariable.ttf"
+								"file:./assets/fonts/geist-mono/GeistMonoVariable.woff2"
 							]
 						}
 					],
-					"fontFamily": "\"Inconsolata\", monospace",
-					"name": "Inconsolata",
-					"slug": "inconsolata"
+					"fontFamily": "\"Geist Mono\", monospace",
+					"name": "Geist Mono",
+					"slug": "geist-mono"
 				},
 				{
 					"fontFace": [

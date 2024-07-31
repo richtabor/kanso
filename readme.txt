@@ -39,13 +39,12 @@ Copyright 2022 The Noto Project Authors
 License: SIL Open Font License, 1.1, https://opensource.org/licenses/OFL-1.1
 Source: https://github.com/notofonts/latin-greek-cyrillic
 
-Inconsolata Font
-Copyright 2006 The Inconsolata Project Authors
+Geist Mono Font
+Copyright 2023 Vercel, made in collaboration with basement.studio
 License: SIL Open Font License, 1.1, https://opensource.org/licenses/OFL-1.1
-Source: https://github.com/googlefonts/inconsolata
+Source: https://vercel.com/font
 
 === Images ===
 
-License: CC0 https://creativecommons.org/publicdomain/zero/1.0/
-
 spring.webp - https://www.rawpixel.com/image/8689361/image-cloud-tree-public-domain
+License: CC0 https://creativecommons.org/publicdomain/zero/1.0/
