@@ -105,7 +105,7 @@
 <!-- wp:group {"metadata":{"name":"Cards"},"style":{"spacing":{"blockGap":"var:preset|spacing|10"}},"layout":{"type":"grid","columnCount":null,"minimumColumnWidth":"12rem"}} -->
 <div class="wp-block-group"><!-- wp:group {"metadata":{"name":"Card"},"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20","right":"var:preset|spacing|20"},"blockGap":"0"},"layout":{"selfStretch":"fill","flexSize":null}},"className":"is-style-section-3","layout":{"type":"flex","orientation":"vertical","flexWrap":"nowrap"}} -->
 <div class="wp-block-group is-style-section-3" style="padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)"><!-- wp:paragraph {"className":"no-underline","fontSize":"small"} -->
-<p class="no-underline has-small-font-size"><a href="https://rich.blog/shaping-wordpress"><?php echo esc_html__( 'Shaping WordPress', 'kanso' ); ?></a></p>
+<p class="no-underline has-small-font-size"><a href="#"><?php echo esc_html__( 'Shaping WordPress', 'kanso' ); ?></a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"13px"}},"className":"is-style-text-subtitle"} -->
@@ -115,7 +115,7 @@
 
 <!-- wp:group {"metadata":{"name":"Card"},"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20","right":"var:preset|spacing|20"},"blockGap":"0"},"layout":{"selfStretch":"fill","flexSize":null}},"className":"is-style-section-3","layout":{"type":"flex","orientation":"vertical","flexWrap":"nowrap"}} -->
 <div class="wp-block-group is-style-section-3" style="padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)"><!-- wp:paragraph {"className":"no-underline","fontSize":"small"} -->
-<p class="no-underline has-small-font-size"><a href="https://rich.blog"><?php echo esc_html__( 'Rich\'s Blog', 'kanso' ); ?></a></p>
+<p class="no-underline has-small-font-size"><a href="#"><?php echo esc_html__( 'Rich\'s Blog', 'kanso' ); ?></a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"13px"}},"className":"is-style-text-subtitle"} -->
@@ -135,7 +135,7 @@
 
 <!-- wp:group {"metadata":{"name":"Card"},"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20","right":"var:preset|spacing|20"},"blockGap":"0"},"layout":{"selfStretch":"fill","flexSize":null}},"className":"is-style-section-3","layout":{"type":"flex","orientation":"vertical","flexWrap":"nowrap"}} -->
 <div class="wp-block-group is-style-section-3" style="padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)"><!-- wp:paragraph {"className":"no-underline","fontSize":"small"} -->
-<p class="no-underline has-small-font-size"><a href="https://rich.blog/shaping-wordpress"><?php echo esc_html__( 'Shaping WordPress', 'kanso' ); ?></a></p>
+<p class="no-underline has-small-font-size"><a href="#"><?php echo esc_html__( 'Shaping WordPress', 'kanso' ); ?></a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"13px"}},"className":"is-style-text-subtitle"} -->

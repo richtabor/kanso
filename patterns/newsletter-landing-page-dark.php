@@ -29,7 +29,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center">By <a href="https://twitter.com/richard_tabor" target="_blank" rel="noreferrer noopener">Rich Tabor</a> · <a href="https://rich.blog/shaping-wordpress-001/" target="_blank">Read it first <strong>→</strong></a></p>
+<p class="has-text-align-center"><?php echo esc_html__( 'By', 'kanso' ); ?> <a href="#">Rich Tabor</a> · <a href="#"><?php echo esc_html__( 'Read it first', 'kanso' ); ?> <strong>→</strong></a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":"var:preset|spacing|10"} -->
