@@ -13,6 +13,9 @@ Kanso is a simple and intuitive blog block theme designed with a focus on writin
 
 == Changelog ==
 
+= 1.0.2 =
+* Update template part area.
+
 = 1.0.1 =
 * Remove hard-coded links.
 * Fix untranslated strings in patterns.
