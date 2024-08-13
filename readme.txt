@@ -3,7 +3,7 @@ Contributors: richtabor
 Requires at least: 6.6
 Tested up to: 6.6
 Requires PHP: 5.6
-Stable tag: 1.0.1
+Stable tag: 1.0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -12,6 +12,10 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Kanso is a simple and intuitive blog block theme designed with a focus on writing. It offers a clean and distraction-free reading experience, perfect for bloggers who want their content to take center stage. Kanso also includes several patterns for newsletters, providing an easy way to engage with your audience. The theme features 20 color variations and three font variations (sans serif, monospace, and serif), offering a variety of customization options. Additionally, Kanso supports section styles and text styles across all elements, ensuring a cohesive and visually appealing design that you can flex however you'd like.
 
 == Changelog ==
+
+= 1.0.3 =
+* Improve navigation submenu.
+* Use core blocks instead of the tabor/cards block, until its available on the plugins directory.
 
 = 1.0.2 =
 * Update template part area.
@@ -57,4 +61,7 @@ Source: https://vercel.com/font
 === Images ===
 
 spring.webp - https://www.rawpixel.com/image/8689361/image-cloud-tree-public-domain
+License: CC0 https://creativecommons.org/publicdomain/zero/1.0/
+
+screenshot.png avatar - https://rich.blog
 License: CC0 https://creativecommons.org/publicdomain/zero/1.0/
