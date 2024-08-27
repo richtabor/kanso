@@ -21,10 +21,7 @@
 	<!-- /wp:paragraph -->
 
 	<!-- wp:group {"metadata":{"name":"<?php echo esc_html__( 'Tools', 'kanso' ); ?>"},"layout":{"type":"default"}} -->
-	<div class="wp-block-group"><!-- wp:paragraph {"className":"is-style-text-subtitle"} -->
-	<p class="is-style-text-subtitle"><?php echo esc_html__( 'Tools', 'kanso' ); ?></p>
-	<!-- /wp:paragraph -->
-
+	<div class="wp-block-group">
 	<!-- wp:group {"metadata":{"name":"Cards"},"style":{"spacing":{"blockGap":"var:preset|spacing|10"}},"layout":{"type":"grid","columnCount":null,"minimumColumnWidth":"12rem"}} -->
 	<div class="wp-block-group"><!-- wp:group {"metadata":{"name":"Card"},"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20","right":"var:preset|spacing|20"},"blockGap":"0"},"layout":{"selfStretch":"fill","flexSize":null}},"className":"is-style-section-3","layout":{"type":"flex","orientation":"vertical","flexWrap":"nowrap"}} -->
 	<div class="wp-block-group is-style-section-3" style="padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)"><!-- wp:paragraph {"className":"no-underline","fontSize":"small"} -->
