@@ -2,7 +2,7 @@
 /**
  * Title: Dark Inline Newsletter
  * Slug: kanso/newsletter-inline-dark
- * Categories: newsletter
+ * Categories: newsletter, featured
  * Viewport width: 600
  *
  * @package Kanso
