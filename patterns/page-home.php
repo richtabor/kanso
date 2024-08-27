@@ -13,6 +13,10 @@
 <!-- wp:group {"metadata":{"name":"<?php echo esc_html__( 'Home', 'kanso' ); ?>"},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group">
 
+<!-- wp:spacer {"height":"var:preset|spacing|10"} -->
+<div style="height:var(--wp--preset--spacing--10)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
 <!-- wp:site-tagline /-->
  
 <!-- wp:spacer {"height":"var:preset|spacing|10"} -->
