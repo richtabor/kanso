@@ -73,16 +73,16 @@ endif;
 
 add_action( 'admin_init', 'kanso_editor_styles' );
 
-if ( ! function_exists( 'register_newsletter_pattern_category' ) ) :
+if ( ! function_exists( 'kanso_register_pattern_categories' ) ) :
 
+	/**
+	 * Register pattern categories.
+	 *
+	 * @since Kanso 1.0
+	 *
+	 * @return void
+	 */
 	function kanso_register_pattern_categories() {
-		/**
-		 * Register pattern categories.
-		 *
-		 * @since Kanso 1.0
-		 *
-		 * @return void
-		 */
 		register_block_pattern_category(
 			'newsletter',
 			array( 'label' => __( 'Newsletter', 'kanso' ) )
