@@ -754,7 +754,25 @@
 						"top": "var(--wp--preset--spacing--30)"
 					}
 				}
-			}
+			},
+            "tabor/comment-avatars": {
+                "css": "& .wp-block-tabor-comment-avatars__empty::before, & .wp-block-tabor-comment-avatars__empty::after { background-color: var(--wp--preset--color--theme-6);} ",
+                "elements": {
+                    "link": {
+                        ":hover": {
+                            "color": {
+                                "text": "var(--wp--preset--color--theme-6)"
+                            }
+                        },
+                        "color": {
+                            "text": "var(--wp--preset--color--theme-5)"
+                        },
+                        "typography": {
+                            "textDecoration": "none"
+                        }
+                    }
+                }
+            }   
 		},
 		"color": {
 			"background": "var(--wp--preset--color--theme-1)",
