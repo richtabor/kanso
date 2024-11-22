@@ -1,9 +1,9 @@
 === Kanso ===
 Contributors: richtabor
 Requires at least: 6.6
-Tested up to: 6.6
+Tested up to: 6.7
 Requires PHP: 5.6
-Stable tag: 1.0.4
+Stable tag: 1.0.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -12,6 +12,14 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Kanso is a simple and intuitive blog block theme designed with a focus on writing. It offers a clean and distraction-free reading experience, perfect for bloggers who want their content to take center stage. Kanso also includes several patterns for newsletters, providing an easy way to engage with your audience. The theme features 20 color variations and three font variations (sans serif, monospace, and serif), offering a variety of customization options. Additionally, Kanso supports section styles and text styles across all elements, ensuring a cohesive and visually appealing design that you can flex however you'd like.
 
 == Changelog ==
+
+= 1.0.5 =
+* Add home template for the blog home. 
+* Add archive term name and description blocks to the archive template.
+# Add support for Photoblog pattern to use the first photo in the post.
+* Fix form inputs not adapting to typography styles.
+* Improve contrast for better accessibility. 
+* Update tested up to.
 
 = 1.0.4 =
 * Add styles for the Dark Mode Toggle block on WordPress.org.
