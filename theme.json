@@ -756,7 +756,6 @@
 				}
 			},
             "tabor/comment-avatars": {
-                "css": "& .wp-block-tabor-comment-avatars__empty::before, & .wp-block-tabor-comment-avatars__empty::after { background-color: var(--wp--preset--color--theme-6);} ",
                 "elements": {
                     "link": {
                         ":hover": {
