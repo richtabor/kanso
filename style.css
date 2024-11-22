@@ -261,8 +261,8 @@ input:not([type=submit]):focus-visible {
 
 /* Navigation block */
 .wp-block-navigation .wp-block-navigation__submenu-container {
-    border-radius: var(--wp--preset--spacing--10);
-    padding: 12px 8px;
+	border-radius: var(--wp--preset--spacing--10);
+	padding: 12px 8px;
 }
 
 /* Dark mode toggle block */
@@ -272,7 +272,7 @@ input:not([type=submit]):focus-visible {
 }
 
 .wp-block-tabor-dark-mode-toggle__track:not(.has-background):hover {
-    background-color: var(--wp--preset--color--theme-4);
+	background-color: var(--wp--preset--color--theme-4);
 	color: var(--wp--preset--color--theme-6);
 }
 
