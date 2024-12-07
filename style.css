@@ -127,7 +127,7 @@ label {
 }
 
 textarea,
-input:not([type=submit]):not([type=checkbox]) {
+input:not([type=submit]):not([type=checkbox]):not([type=radio]) {
 	background-color: color-mix(in srgb, var(--wp--preset--color--theme-1) 98%, var(--wp--preset--color--theme-6) 2%);
 	border-color: var(--wp--preset--color--theme-4);
 	border-radius: var(--wp--preset--spacing--10);
